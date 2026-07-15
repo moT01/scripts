@@ -3,1619 +3,2039 @@
 
 const rawDailyChallenges = [
   {
-    id: "69cfca90e8a0a6d4d6871c53",
-    date: "2026-05-06T00:00:00.000Z",
-    challengeNumber: 269,
-    title: "Allergen Friendly Meals",
+    "id": "6a2037a68a0bc2aef0006001",
+    "date": "2026-07-15T00:00:00.000Z",
+    "challengeNumber": 339,
+    "title": "Array Chunks"
   },
   {
-    id: "69cfca90e8a0a6d4d6871c52",
-    date: "2026-05-05T00:00:00.000Z",
-    challengeNumber: 268,
-    title: "Narcissistic Number",
+    "id": "6a2037a68a0bc2aef0006000",
+    "date": "2026-07-14T00:00:00.000Z",
+    "challengeNumber": 338,
+    "title": "Pet Age Calculator"
   },
   {
-    id: "69cfca90e8a0a6d4d6871c51",
-    date: "2026-05-04T00:00:00.000Z",
-    challengeNumber: 267,
-    title: "Parsec Converter",
+    "id": "6a2037a68a0bc2aef0005fff",
+    "date": "2026-07-13T00:00:00.000Z",
+    "challengeNumber": 337,
+    "title": "Tally Counter"
   },
   {
-    id: "69cfca90e8a0a6d4d6871c50",
-    date: "2026-05-03T00:00:00.000Z",
-    challengeNumber: 266,
-    title: "Good Day",
+    "id": "6a1d9f98e819ed70a0e994e2",
+    "date": "2026-07-12T00:00:00.000Z",
+    "challengeNumber": 336,
+    "title": "Horoscope Match"
   },
   {
-    id: "69cfca90e8a0a6d4d6871c4f",
-    date: "2026-05-02T00:00:00.000Z",
-    challengeNumber: 265,
-    title: "Deepest Brackets",
+    "id": "6a1d9f98e819ed70a0e994e1",
+    "date": "2026-07-11T00:00:00.000Z",
+    "challengeNumber": 335,
+    "title": "Five Dice"
   },
   {
-    id: "69cfca90e8a0a6d4d6871c4e",
-    date: "2026-05-01T00:00:00.000Z",
-    challengeNumber: 264,
-    title: "Anagram Groups",
+    "id": "6a1d9f98e819ed70a0e994e0",
+    "date": "2026-07-10T00:00:00.000Z",
+    "challengeNumber": 334,
+    "title": "Exact Change"
   },
   {
-    id: "69c6ff713a52713463aa7929",
-    date: "2026-04-30T00:00:00.000Z",
-    challengeNumber: 263,
-    title: "Binary Crossword",
+    "id": "6a1d9f98e819ed70a0e994df",
+    "date": "2026-07-09T00:00:00.000Z",
+    "challengeNumber": 333,
+    "title": "Issue Triage 2"
   },
   {
-    id: "69c6ff713a52713463aa7928",
-    date: "2026-04-29T00:00:00.000Z",
-    challengeNumber: 262,
-    title: "URL Query Parser",
+    "id": "6a1d9f98e819ed70a0e994de",
+    "date": "2026-07-08T00:00:00.000Z",
+    "challengeNumber": 332,
+    "title": "Issue Triage"
   },
   {
-    id: "69c6ff713a52713463aa7927",
-    date: "2026-04-28T00:00:00.000Z",
-    challengeNumber: 261,
-    title: "Number Words",
+    "id": "6a1d9f98e819ed70a0e994dd",
+    "date": "2026-07-07T00:00:00.000Z",
+    "challengeNumber": 331,
+    "title": "Nearest Multiple"
   },
   {
-    id: "69c6ff713a52713463aa7926",
-    date: "2026-04-27T00:00:00.000Z",
-    challengeNumber: 260,
-    title: "Word Score",
+    "id": "6a1d9f98e819ed70a0e994dc",
+    "date": "2026-07-06T00:00:00.000Z",
+    "challengeNumber": 330,
+    "title": "lowercase words"
   },
   {
-    id: "69c5f3d787b1725d5f00c8bd",
-    date: "2026-04-26T00:00:00.000Z",
-    challengeNumber: 259,
-    title: "FizzBuzz Explosion",
+    "id": "6a1d9f98e819ed70a0e994db",
+    "date": "2026-07-05T00:00:00.000Z",
+    "challengeNumber": 329,
+    "title": "Bucket Fill"
   },
   {
-    id: "69c5f3d787b1725d5f00c8bc",
-    date: "2026-04-25T00:00:00.000Z",
-    challengeNumber: 258,
-    title: "Word Decompressor",
+    "id": "6a1d9f98e819ed70a0e994da",
+    "date": "2026-07-04T00:00:00.000Z",
+    "challengeNumber": 328,
+    "title": "Kaprekar's Routine"
   },
   {
-    id: "69c5f3d787b1725d5f00c8bb",
-    date: "2026-04-24T00:00:00.000Z",
-    challengeNumber: 257,
-    title: "Word Compressor",
+    "id": "6a1d9f98e819ed70a0e994d9",
+    "date": "2026-07-03T00:00:00.000Z",
+    "challengeNumber": 327,
+    "title": "Database Migration"
   },
   {
-    id: "69c5f3d787b1725d5f00c8ba",
-    date: "2026-04-23T00:00:00.000Z",
-    challengeNumber: 256,
-    title: "Closest Time Direction",
+    "id": "6a19dd69388e5a6e59e4f2ef",
+    "date": "2026-07-02T00:00:00.000Z",
+    "challengeNumber": 326,
+    "title": "Max Profit"
   },
   {
-    id: "69c5f3d787b1725d5f00c8b9",
-    date: "2026-04-22T00:00:00.000Z",
-    challengeNumber: 255,
-    title: "Earth Day Cleanup Crew",
+    "id": "6a19b1062d1b153d8ac76d73",
+    "date": "2026-07-01T00:00:00.000Z",
+    "challengeNumber": 325,
+    "title": "Lucky Number"
   },
   {
-    id: "69c5f3d787b1725d5f00c8b8",
-    date: "2026-04-21T00:00:00.000Z",
-    challengeNumber: 254,
-    title: "Odd Words",
+    "id": "6a19b1062d1b153d8ac76d72",
+    "date": "2026-06-30T00:00:00.000Z",
+    "challengeNumber": 324,
+    "title": "Duplicate Character Count"
   },
   {
-    id: "69c5f3d787b1725d5f00c8b7",
-    date: "2026-04-20T00:00:00.000Z",
-    challengeNumber: 253,
-    title: "Acronym Finder",
+    "id": "6a19b1062d1b153d8ac76d71",
+    "date": "2026-06-29T00:00:00.000Z",
+    "challengeNumber": 323,
+    "title": "Song Mood Finder"
   },
   {
-    id: "69bc6cb30c1d112a2e110a09",
-    date: "2026-04-19T00:00:00.000Z",
-    challengeNumber: 252,
-    title: "Unique Stair Climber",
+    "id": "6a19b1062d1b153d8ac76d70",
+    "date": "2026-06-28T00:00:00.000Z",
+    "challengeNumber": 322,
+    "title": "Connect 3"
   },
   {
-    id: "69bc6cb30c1d112a2e110a08",
-    date: "2026-04-18T00:00:00.000Z",
-    challengeNumber: 251,
-    title: "Array Sum Finder",
+    "id": "6a15cadf5f240d05a264955f",
+    "date": "2026-06-27T00:00:00.000Z",
+    "challengeNumber": 321,
+    "title": "Periodic Spelling"
   },
   {
-    id: "69bc6cb30c1d112a2e110a07",
-    date: "2026-04-17T00:00:00.000Z",
-    challengeNumber: 250,
-    title: "Hidden Key",
+    "id": "6a15cadf5f240d05a264955e",
+    "date": "2026-06-26T00:00:00.000Z",
+    "challengeNumber": 320,
+    "title": "Blood Bank"
   },
   {
-    id: "69bc6cb30c1d112a2e110a06",
-    date: "2026-04-16T00:00:00.000Z",
-    challengeNumber: 249,
-    title: "String Math",
+    "id": "6a15cadf5f240d05a264955d",
+    "date": "2026-06-25T00:00:00.000Z",
+    "challengeNumber": 319,
+    "title": "Frontmatter Parser"
   },
   {
-    id: "69bc6cb30c1d112a2e110a05",
-    date: "2026-04-15T00:00:00.000Z",
-    challengeNumber: 248,
-    title: "Sorted Array Swap",
+    "id": "6a15cadf5f240d05a264955c",
+    "date": "2026-06-24T00:00:00.000Z",
+    "challengeNumber": 318,
+    "title": "DNA Mutations"
   },
   {
-    id: "69bc6cb30c1d112a2e110a04",
-    date: "2026-04-14T00:00:00.000Z",
-    challengeNumber: 247,
-    title: "Last Letter",
+    "id": "6a15cadf5f240d05a264955b",
+    "date": "2026-06-23T00:00:00.000Z",
+    "challengeNumber": 317,
+    "title": "BMI Calculator"
   },
   {
-    id: "69bc6cb30c1d112a2e110a03",
-    date: "2026-04-13T00:00:00.000Z",
-    challengeNumber: 246,
-    title: "Name Initials",
+    "id": "6a15cadf5f240d05a264955a",
+    "date": "2026-06-22T00:00:00.000Z",
+    "challengeNumber": 316,
+    "title": "1337 Speak"
   },
   {
-    id: "69b5b2be76ec8135a7fbe974",
-    date: "2026-04-12T00:00:00.000Z",
-    challengeNumber: 245,
-    title: "Spiral Matrix",
+    "id": "6a15cadf5f240d05a2649559",
+    "date": "2026-06-21T00:00:00.000Z",
+    "challengeNumber": 315,
+    "title": "Summer Solstice"
   },
   {
-    id: "69b5b2be76ec8135a7fbe973",
-    date: "2026-04-11T00:00:00.000Z",
-    challengeNumber: 244,
-    title: "Rook and Bishop Attack",
+    "id": "6a15cadf5f240d05a2649558",
+    "date": "2026-06-20T00:00:00.000Z",
+    "challengeNumber": 314,
+    "title": "Prime Factorization"
   },
   {
-    id: "69b58ce40693f140c84c855c",
-    date: "2026-04-10T00:00:00.000Z",
-    challengeNumber: 243,
-    title: "Rook Attack",
+    "id": "6a15cadf5f240d05a2649557",
+    "date": "2026-06-19T00:00:00.000Z",
+    "challengeNumber": 313,
+    "title": "Rental Cost"
   },
   {
-    id: "69b58ce40693f140c84c855b",
-    date: "2026-04-09T00:00:00.000Z",
-    challengeNumber: 242,
-    title: "Next Bingo Number",
+    "id": "6a15cadf5f240d05a2649556",
+    "date": "2026-06-18T00:00:00.000Z",
+    "challengeNumber": 312,
+    "title": "Streaming Cost"
   },
   {
-    id: "69b58ce40693f140c84c855a",
-    date: "2026-04-08T00:00:00.000Z",
-    challengeNumber: 241,
-    title: "FizzBuzz Validator",
+    "id": "6a151d32d772271dd2448c2d",
+    "date": "2026-06-17T00:00:00.000Z",
+    "challengeNumber": 311,
+    "title": "Spellcaster"
   },
   {
-    id: "69b58ce40693f140c84c8559",
-    date: "2026-04-07T00:00:00.000Z",
-    challengeNumber: 240,
-    title: "Palindrome Characters",
+    "id": "6a151d32d772271dd2448c2c",
+    "date": "2026-06-16T00:00:00.000Z",
+    "challengeNumber": 310,
+    "title": "British to American"
   },
   {
-    id: "69b559d2903b9e4afe9075f9",
-    date: "2026-04-06T00:00:00.000Z",
-    challengeNumber: 239,
-    title: "What Day Is It?",
+    "id": "6a0dcd03ee4e68698080ef6d",
+    "date": "2026-06-15T00:00:00.000Z",
+    "challengeNumber": 309,
+    "title": "Number Sort"
   },
   {
-    id: "69b559d2903b9e4afe9075f8",
-    date: "2026-04-05T00:00:00.000Z",
-    challengeNumber: 238,
-    title: "Digit Rotation Escape",
+    "id": "6a0dcd03ee4e68698080ef6c",
+    "date": "2026-06-14T00:00:00.000Z",
+    "challengeNumber": 308,
+    "title": "Credit Card Validator"
   },
   {
-    id: "69b559d2903b9e4afe9075f7",
-    date: "2026-04-04T00:00:00.000Z",
-    challengeNumber: 237,
-    title: "Equation Validation",
+    "id": "6a0dcd03ee4e68698080ef6b",
+    "date": "2026-06-13T00:00:00.000Z",
+    "challengeNumber": 307,
+    "title": "Zoning Regulations"
   },
   {
-    id: "69b1028d6e265413d0198a2f",
-    date: "2026-04-03T00:00:00.000Z",
-    challengeNumber: 236,
-    title: "Browser History",
+    "id": "6a0dcd03ee4e68698080ef6a",
+    "date": "2026-06-12T00:00:00.000Z",
+    "challengeNumber": 306,
+    "title": "HTML Content Extractor"
   },
   {
-    id: "69b1028d6e265413d0198a2e",
-    date: "2026-04-02T00:00:00.000Z",
-    challengeNumber: 235,
-    title: "Capitalized Fibonacci",
+    "id": "6a0dcd03ee4e68698080ef69",
+    "date": "2026-06-11T00:00:00.000Z",
+    "challengeNumber": 305,
+    "title": "Idea Rankings"
   },
   {
-    id: "69b1028d6e265413d0198a2d",
-    date: "2026-04-01T00:00:00.000Z",
-    challengeNumber: 234,
-    title: "Prank Number",
+    "id": "6a0dcd03ee4e68698080ef68",
+    "date": "2026-06-10T00:00:00.000Z",
+    "challengeNumber": 304,
+    "title": "Itinerary Arrangements"
   },
   {
-    id: "69b1028d6e265413d0198a2c",
-    date: "2026-03-31T00:00:00.000Z",
-    challengeNumber: 233,
-    title: "Wake-Up Alarm",
+    "id": "6a0dcd03ee4e68698080ef67",
+    "date": "2026-06-09T00:00:00.000Z",
+    "challengeNumber": 303,
+    "title": "Roommates"
   },
   {
-    id: "69b1028d6e265413d0198a2b",
-    date: "2026-03-30T00:00:00.000Z",
-    challengeNumber: 232,
-    title: "Due Date",
+    "id": "6a0dcd03ee4e68698080ef66",
+    "date": "2026-06-08T00:00:00.000Z",
+    "challengeNumber": 302,
+    "title": "Jet Lagged"
   },
   {
-    id: "69b1028d6e265413d0198a2a",
-    date: "2026-03-29T00:00:00.000Z",
-    challengeNumber: 231,
-    title: "ISBN-10 Validator",
+    "id": "6a0dcc730cb92a616f86f0c5",
+    "date": "2026-06-07T00:00:00.000Z",
+    "challengeNumber": 301,
+    "title": "Last Load"
   },
   {
-    id: "69b1028d6e265413d0198a29",
-    date: "2026-03-28T00:00:00.000Z",
-    challengeNumber: 230,
-    title: "Pascal's Triangle Row",
+    "id": "6a0dcc730cb92a616f86f0c4",
+    "date": "2026-06-06T00:00:00.000Z",
+    "challengeNumber": 300,
+    "title": "Schema Validator Part 6"
   },
   {
-    id: "69a890af247de743333bd4d2",
-    date: "2026-03-27T00:00:00.000Z",
-    challengeNumber: 229,
-    title: "Truncate the Text 2",
+    "id": "6a0dcc730cb92a616f86f0c3",
+    "date": "2026-06-05T00:00:00.000Z",
+    "challengeNumber": 299,
+    "title": "Schema Validator Part 5"
   },
   {
-    id: "69a890af247de743333bd4d1",
-    date: "2026-03-26T00:00:00.000Z",
-    challengeNumber: 228,
-    title: "Movie Night",
+    "id": "6a0dcc730cb92a616f86f0c2",
+    "date": "2026-06-04T00:00:00.000Z",
+    "challengeNumber": 298,
+    "title": "Schema Validator Part 4"
   },
   {
-    id: "69a890af247de743333bd4d0",
-    date: "2026-03-25T00:00:00.000Z",
-    challengeNumber: 227,
-    title: "Cooldown Time",
+    "id": "6a0dcc730cb92a616f86f0c1",
+    "date": "2026-06-03T00:00:00.000Z",
+    "challengeNumber": 297,
+    "title": "Schema Validator Part 3"
   },
   {
-    id: "69a890af247de743333bd4cf",
-    date: "2026-03-24T00:00:00.000Z",
-    challengeNumber: 226,
-    title: "Passing Exam Count",
+    "id": "6a0dcc730cb92a616f86f0c0",
+    "date": "2026-06-02T00:00:00.000Z",
+    "challengeNumber": 296,
+    "title": "Schema Validator Part 2"
   },
   {
-    id: "69a890af247de743333bd4ce",
-    date: "2026-03-23T00:00:00.000Z",
-    challengeNumber: 225,
-    title: "No Consecutive Repeats",
+    "id": "6a0dcc730cb92a616f86f0bf",
+    "date": "2026-06-01T00:00:00.000Z",
+    "challengeNumber": 295,
+    "title": "Schema Validator Part 1"
   },
   {
-    id: "69a890af247de743333bd4cd",
-    date: "2026-03-22T00:00:00.000Z",
-    challengeNumber: 224,
-    title: "Coffee Roast Detector",
+    "id": "69f90c1329a94b37e2a2086d",
+    "date": "2026-05-31T00:00:00.000Z",
+    "challengeNumber": 294,
+    "title": "Parentheses Combinations"
   },
   {
-    id: "69a890af247de743333bd4cc",
-    date: "2026-03-21T00:00:00.000Z",
-    challengeNumber: 223,
-    title: "QR Decoder",
+    "id": "69f90c1329a94b37e2a2086c",
+    "date": "2026-05-30T00:00:00.000Z",
+    "challengeNumber": 293,
+    "title": "Best Hand"
   },
   {
-    id: "699c8e045ee7cb94ed2322dd",
-    date: "2026-03-20T00:00:00.000Z",
-    challengeNumber: 222,
-    title: "Equinox Shadows",
+    "id": "69f8c998d78ad3171a0713bf",
+    "date": "2026-05-29T00:00:00.000Z",
+    "challengeNumber": 292,
+    "title": "Wider Aspect Ratio"
   },
   {
-    id: "699c8e045ee7cb94ed2322dc",
-    date: "2026-03-19T00:00:00.000Z",
-    challengeNumber: 221,
-    title: "Inverted Matrix",
+    "id": "69f8c998d78ad3171a0713be",
+    "date": "2026-05-28T00:00:00.000Z",
+    "challengeNumber": 291,
+    "title": "FizzBuzz Count"
   },
   {
-    id: "699c8e045ee7cb94ed2322db",
-    date: "2026-03-18T00:00:00.000Z",
-    challengeNumber: 220,
-    title: "Largest Number",
+    "id": "69f8c998d78ad3171a0713bd",
+    "date": "2026-05-27T00:00:00.000Z",
+    "challengeNumber": 290,
+    "title": "Pizza Party"
   },
   {
-    id: "699c8e045ee7cb94ed2322da",
-    date: "2026-03-17T00:00:00.000Z",
-    challengeNumber: 219,
-    title: "Anniversary Milestones",
+    "id": "69f8c998d78ad3171a0713bc",
+    "date": "2026-05-26T00:00:00.000Z",
+    "challengeNumber": 289,
+    "title": "Sum of Differences"
   },
   {
-    id: "699c8e045ee7cb94ed2322d9",
-    date: "2026-03-16T00:00:00.000Z",
-    challengeNumber: 218,
-    title: "Evenly Divisible",
+    "id": "69f8c998d78ad3171a0713bb",
+    "date": "2026-05-25T00:00:00.000Z",
+    "challengeNumber": 288,
+    "title": "Secret Number"
   },
   {
-    id: "699c8e045ee7cb94ed2322d8",
-    date: "2026-03-15T00:00:00.000Z",
-    challengeNumber: 217,
-    title: "Captured Chess Pieces",
+    "id": "69f8c998d78ad3171a0713ba",
+    "date": "2026-05-24T00:00:00.000Z",
+    "challengeNumber": 287,
+    "title": "Roman Numeral Fixer"
   },
   {
-    id: "699c8e045ee7cb94ed2322d7",
-    date: "2026-03-14T00:00:00.000Z",
-    challengeNumber: 216,
-    title: "Pi Day",
+    "id": "69f8c998d78ad3171a0713b9",
+    "date": "2026-05-23T00:00:00.000Z",
+    "challengeNumber": 286,
+    "title": "Open Issues"
   },
   {
-    id: "699c8e045ee7cb94ed2322d6",
-    date: "2026-03-13T00:00:00.000Z",
-    challengeNumber: 215,
-    title: "Parking Fee Calculator",
+    "id": "69f35a5bb823ed620fcb7cbe",
+    "date": "2026-05-22T00:00:00.000Z",
+    "challengeNumber": 285,
+    "title": "Meeting Time"
   },
   {
-    id: "699c8e045ee7cb94ed2322d5",
-    date: "2026-03-12T00:00:00.000Z",
-    challengeNumber: 214,
-    title: "Domino Chain Validator",
+    "id": "69f35a5bb823ed620fcb7cbd",
+    "date": "2026-05-21T00:00:00.000Z",
+    "challengeNumber": 284,
+    "title": "I Before E"
   },
   {
-    id: "699c8e045ee7cb94ed2322d4",
-    date: "2026-03-11T00:00:00.000Z",
-    challengeNumber: 213,
-    title: "Word Length Converter",
+    "id": "69f35a5bb823ed620fcb7cbc",
+    "date": "2026-05-20T00:00:00.000Z",
+    "challengeNumber": 283,
+    "title": "String Zipper"
   },
   {
-    id: "6994cff2290543b3aec9f511",
-    date: "2026-03-10T00:00:00.000Z",
-    challengeNumber: 212,
-    title: "Array Insertion",
+    "id": "69f35a5bb823ed620fcb7cbb",
+    "date": "2026-05-19T00:00:00.000Z",
+    "challengeNumber": 282,
+    "title": "Sleep Debt"
   },
   {
-    id: "6994cff2290543b3aec9f510",
-    date: "2026-03-09T00:00:00.000Z",
-    challengeNumber: 211,
-    title: "Array Sum",
+    "id": "69f35a5bb823ed620fcb7cba",
+    "date": "2026-05-18T00:00:00.000Z",
+    "challengeNumber": 281,
+    "title": "Bingo Range"
   },
   {
-    id: "6994cff2290543b3aec9f50f",
-    date: "2026-03-08T00:00:00.000Z",
-    challengeNumber: 210,
-    title: "HSL Validator",
+    "id": "69f35a5bb823ed620fcb7cb9",
+    "date": "2026-05-17T00:00:00.000Z",
+    "challengeNumber": 280,
+    "title": "Mongo ID Date"
   },
   {
-    id: "698a1a863194f1f4e63f6460",
-    date: "2026-03-07T00:00:00.000Z",
-    challengeNumber: 209,
-    title: "Element Size",
+    "id": "69f35a5bb823ed620fcb7cb8",
+    "date": "2026-05-16T00:00:00.000Z",
+    "challengeNumber": 279,
+    "title": "Longest Domino Chain"
   },
   {
-    id: "698a1a863194f1f4e63f645f",
-    date: "2026-03-06T00:00:00.000Z",
-    challengeNumber: 208,
-    title: "Trail Traversal",
+    "id": "69e2383af7832c8032603b94",
+    "date": "2026-05-15T00:00:00.000Z",
+    "challengeNumber": 278,
+    "title": "Coffee Order Parser"
   },
   {
-    id: "698a1a863194f1f4e63f645e",
-    date: "2026-03-05T00:00:00.000Z",
-    challengeNumber: 207,
-    title: "Smallest Gap",
+    "id": "69e2383af7832c8032603b93",
+    "date": "2026-05-14T00:00:00.000Z",
+    "challengeNumber": 277,
+    "title": "Mirror Image"
   },
   {
-    id: "698a1a73ade5ac0e19180fa9",
-    date: "2026-03-04T00:00:00.000Z",
-    challengeNumber: 206,
-    title: "Playing Card Values",
+    "id": "69e2383af7832c8032603b92",
+    "date": "2026-05-13T00:00:00.000Z",
+    "challengeNumber": 276,
+    "title": "Offending Element"
   },
   {
-    id: "698a1a73ade5ac0e19180fa8",
-    date: "2026-03-03T00:00:00.000Z",
-    challengeNumber: 205,
-    title: "Perfect Cube Count",
+    "id": "69e2383af7832c8032603b91",
+    "date": "2026-05-12T00:00:00.000Z",
+    "challengeNumber": 275,
+    "title": "Character Frequency"
   },
   {
-    id: "698a1a73ade5ac0e19180fa7",
-    date: "2026-03-02T00:00:00.000Z",
-    challengeNumber: 204,
-    title: "Sum the Letters",
+    "id": "69e2383af7832c8032603b90",
+    "date": "2026-05-11T00:00:00.000Z",
+    "challengeNumber": 274,
+    "title": "Oldest Person"
   },
   {
-    id: "698a1a73ade5ac0e19180fa6",
-    date: "2026-03-01T00:00:00.000Z",
-    challengeNumber: 203,
-    title: "Flattened",
+    "id": "69e2383af7832c8032603b8f",
+    "date": "2026-05-10T00:00:00.000Z",
+    "challengeNumber": 273,
+    "title": "ISBN-13 Validator"
   },
   {
-    id: "698a1a73ade5ac0e19180fa5",
-    date: "2026-02-28T00:00:00.000Z",
-    challengeNumber: 202,
-    title: "Add Punctuation",
+    "id": "69e2383af7832c8032603b8e",
+    "date": "2026-05-09T00:00:00.000Z",
+    "challengeNumber": 272,
+    "title": "Transposed Matrix"
   },
   {
-    id: "698a1a73ade5ac0e19180fa4",
-    date: "2026-02-27T00:00:00.000Z",
-    challengeNumber: 201,
-    title: "Matrix Shift",
+    "id": "69d03e549613fbdbe21d11e0",
+    "date": "2026-05-08T00:00:00.000Z",
+    "challengeNumber": 271,
+    "title": "Medication Reminder"
   },
   {
-    id: "698a1a73ade5ac0e19180fa3",
-    date: "2026-02-26T00:00:00.000Z",
-    challengeNumber: 200,
-    title: "Letter and Number Count",
+    "id": "69cfca90e8a0a6d4d6871c54",
+    "date": "2026-05-07T00:00:00.000Z",
+    "challengeNumber": 270,
+    "title": "Longest Common Substring"
   },
   {
-    id: "698a1a73ade5ac0e19180fa2",
-    date: "2026-02-25T00:00:00.000Z",
-    challengeNumber: 199,
-    title: "Sequential Difference",
+    "id": "69cfca90e8a0a6d4d6871c53",
+    "date": "2026-05-06T00:00:00.000Z",
+    "challengeNumber": 269,
+    "title": "Allergen Friendly Meals"
   },
   {
-    id: "698a1a73ade5ac0e19180fa1",
-    date: "2026-02-24T00:00:00.000Z",
-    challengeNumber: 198,
-    title: "Business Day Count",
+    "id": "69cfca90e8a0a6d4d6871c52",
+    "date": "2026-05-05T00:00:00.000Z",
+    "challengeNumber": 268,
+    "title": "Narcissistic Number"
   },
   {
-    id: "698a1a73ade5ac0e19180fa0",
-    date: "2026-02-23T00:00:00.000Z",
-    challengeNumber: 197,
-    title: "Blood Type Compatibility",
+    "id": "69cfca90e8a0a6d4d6871c51",
+    "date": "2026-05-04T00:00:00.000Z",
+    "challengeNumber": 267,
+    "title": "Parsec Converter"
   },
   {
-    id: "697a49e9860d24853adef681",
-    date: "2026-02-22T00:00:00.000Z",
-    challengeNumber: 196,
-    title: "2026 Winter Games Day 17: Closing Day",
+    "id": "69cfca90e8a0a6d4d6871c50",
+    "date": "2026-05-03T00:00:00.000Z",
+    "challengeNumber": 266,
+    "title": "Good Day"
   },
   {
-    id: "697a49e9860d24853adef680",
-    date: "2026-02-21T00:00:00.000Z",
-    challengeNumber: 195,
-    title: "2026 Winter Games Day 16: Curling",
+    "id": "69cfca90e8a0a6d4d6871c4f",
+    "date": "2026-05-02T00:00:00.000Z",
+    "challengeNumber": 265,
+    "title": "Deepest Brackets"
   },
   {
-    id: "697a49e9860d24853adef67f",
-    date: "2026-02-20T00:00:00.000Z",
-    challengeNumber: 194,
-    title: "2026 Winter Games Day 15: Freestyle Skiing",
+    "id": "69cfca90e8a0a6d4d6871c4e",
+    "date": "2026-05-01T00:00:00.000Z",
+    "challengeNumber": 264,
+    "title": "Anagram Groups"
   },
   {
-    id: "697a49e9860d24853adef67e",
-    date: "2026-02-19T00:00:00.000Z",
-    challengeNumber: 193,
-    title: "2026 Winter Games Day 14: Ski Mountaineering",
+    "id": "69c6ff713a52713463aa7929",
+    "date": "2026-04-30T00:00:00.000Z",
+    "challengeNumber": 263,
+    "title": "Binary Crossword"
   },
   {
-    id: "697a49e9860d24853adef67d",
-    date: "2026-02-18T00:00:00.000Z",
-    challengeNumber: 192,
-    title: "2026 Winter Games Day 13: Nordic Combined",
+    "id": "69c6ff713a52713463aa7928",
+    "date": "2026-04-29T00:00:00.000Z",
+    "challengeNumber": 262,
+    "title": "URL Query Parser"
   },
   {
-    id: "697a49e9860d24853adef67c",
-    date: "2026-02-17T00:00:00.000Z",
-    challengeNumber: 191,
-    title: "2026 Winter Games Day 12: Bobsled",
+    "id": "69c6ff713a52713463aa7927",
+    "date": "2026-04-28T00:00:00.000Z",
+    "challengeNumber": 261,
+    "title": "Number Words"
   },
   {
-    id: "697a49e9860d24853adef67b",
-    date: "2026-02-16T00:00:00.000Z",
-    challengeNumber: 190,
-    title: "2026 Winter Games Day 11: Ice Hockey",
+    "id": "69c6ff713a52713463aa7926",
+    "date": "2026-04-27T00:00:00.000Z",
+    "challengeNumber": 260,
+    "title": "Word Score"
   },
   {
-    id: "697a49e6ff50d756c9b69366",
-    date: "2026-02-15T00:00:00.000Z",
-    challengeNumber: 189,
-    title: "2026 Winter Games Day 10: Alpine Skiing",
+    "id": "69c5f3d787b1725d5f00c8bd",
+    "date": "2026-04-26T00:00:00.000Z",
+    "challengeNumber": 259,
+    "title": "FizzBuzz Explosion"
   },
   {
-    id: "697a49e6ff50d756c9b69365",
-    date: "2026-02-14T00:00:00.000Z",
-    challengeNumber: 188,
-    title: "2026 Winter Games Day 9: Skeleton",
+    "id": "69c5f3d787b1725d5f00c8bc",
+    "date": "2026-04-25T00:00:00.000Z",
+    "challengeNumber": 258,
+    "title": "Word Decompressor"
   },
   {
-    id: "697a49e6ff50d756c9b69364",
-    date: "2026-02-13T00:00:00.000Z",
-    challengeNumber: 187,
-    title: "2026 Winter Games Day 8: Luge",
+    "id": "69c5f3d787b1725d5f00c8bb",
+    "date": "2026-04-24T00:00:00.000Z",
+    "challengeNumber": 257,
+    "title": "Word Compressor"
   },
   {
-    id: "697a49e6ff50d756c9b69363",
-    date: "2026-02-12T00:00:00.000Z",
-    challengeNumber: 186,
-    title: "2026 Winter Games Day 7: Speed Skating",
+    "id": "69c5f3d787b1725d5f00c8ba",
+    "date": "2026-04-23T00:00:00.000Z",
+    "challengeNumber": 256,
+    "title": "Closest Time Direction"
   },
   {
-    id: "697a49e6ff50d756c9b69362",
-    date: "2026-02-11T00:00:00.000Z",
-    challengeNumber: 185,
-    title: "2026 Winter Games Day 6: Figure Skating",
+    "id": "69c5f3d787b1725d5f00c8b9",
+    "date": "2026-04-22T00:00:00.000Z",
+    "challengeNumber": 255,
+    "title": "Earth Day Cleanup Crew"
   },
   {
-    id: "697a49e6ff50d756c9b69361",
-    date: "2026-02-10T00:00:00.000Z",
-    challengeNumber: 184,
-    title: "2026 Winter Games Day 5: Cross-Country Skiing",
+    "id": "69c5f3d787b1725d5f00c8b8",
+    "date": "2026-04-21T00:00:00.000Z",
+    "challengeNumber": 254,
+    "title": "Odd Words"
   },
   {
-    id: "697a49e6ff50d756c9b69360",
-    date: "2026-02-09T00:00:00.000Z",
-    challengeNumber: 183,
-    title: "2026 Winter Games Day 4: Ski Jumping",
+    "id": "69c5f3d787b1725d5f00c8b7",
+    "date": "2026-04-20T00:00:00.000Z",
+    "challengeNumber": 253,
+    "title": "Acronym Finder"
   },
   {
-    id: "697a49e6ff50d756c9b6935f",
-    date: "2026-02-08T00:00:00.000Z",
-    challengeNumber: 182,
-    title: "2026 Winter Games Day 3: Biathlon",
+    "id": "69bc6cb30c1d112a2e110a09",
+    "date": "2026-04-19T00:00:00.000Z",
+    "challengeNumber": 252,
+    "title": "Unique Stair Climber"
   },
   {
-    id: "697a49e6ff50d756c9b6935e",
-    date: "2026-02-07T00:00:00.000Z",
-    challengeNumber: 181,
-    title: "2026 Winter Games Day 2: Snowboarding",
+    "id": "69bc6cb30c1d112a2e110a08",
+    "date": "2026-04-18T00:00:00.000Z",
+    "challengeNumber": 251,
+    "title": "Array Sum Finder"
   },
   {
-    id: "697a49e6ff50d756c9b6935d",
-    date: "2026-02-06T00:00:00.000Z",
-    challengeNumber: 180,
-    title: "2026 Winter Games Day 1: Opening Day",
+    "id": "69bc6cb30c1d112a2e110a07",
+    "date": "2026-04-17T00:00:00.000Z",
+    "challengeNumber": 250,
+    "title": "Hidden Key"
   },
   {
-    id: "69738771fb5a7b8b24cca2a5",
-    date: "2026-02-05T00:00:00.000Z",
-    challengeNumber: 179,
-    title: "Pocket Change",
+    "id": "69bc6cb30c1d112a2e110a06",
+    "date": "2026-04-16T00:00:00.000Z",
+    "challengeNumber": 249,
+    "title": "String Math"
   },
   {
-    id: "69738771fb5a7b8b24cca2a4",
-    date: "2026-02-04T00:00:00.000Z",
-    challengeNumber: 178,
-    title: "Truncate the Text",
+    "id": "69bc6cb30c1d112a2e110a05",
+    "date": "2026-04-15T00:00:00.000Z",
+    "challengeNumber": 248,
+    "title": "Sorted Array Swap"
   },
   {
-    id: "69738771fb5a7b8b24cca2a3",
-    date: "2026-02-03T00:00:00.000Z",
-    challengeNumber: 177,
-    title: "String Mirror",
+    "id": "69bc6cb30c1d112a2e110a04",
+    "date": "2026-04-14T00:00:00.000Z",
+    "challengeNumber": 247,
+    "title": "Last Letter"
   },
   {
-    id: "69738771fb5a7b8b24cca2a2",
-    date: "2026-02-02T00:00:00.000Z",
-    challengeNumber: 176,
-    title: "Groundhog Day",
+    "id": "69bc6cb30c1d112a2e110a03",
+    "date": "2026-04-13T00:00:00.000Z",
+    "challengeNumber": 246,
+    "title": "Name Initials"
   },
   {
-    id: "69738771fb5a7b8b24cca2a1",
-    date: "2026-02-01T00:00:00.000Z",
-    challengeNumber: 175,
-    title: "Digital Detox",
+    "id": "69b5b2be76ec8135a7fbe974",
+    "date": "2026-04-12T00:00:00.000Z",
+    "challengeNumber": 245,
+    "title": "Spiral Matrix"
   },
   {
-    id: "69738771fb5a7b8b24cca2a0",
-    date: "2026-01-31T00:00:00.000Z",
-    challengeNumber: 174,
-    title: "Zodiac Finder",
+    "id": "69b5b2be76ec8135a7fbe973",
+    "date": "2026-04-11T00:00:00.000Z",
+    "challengeNumber": 244,
+    "title": "Rook and Bishop Attack"
   },
   {
-    id: "69738771fb5a7b8b24cca29f",
-    date: "2026-01-30T00:00:00.000Z",
-    challengeNumber: 173,
-    title: "Valid Pawn Moves",
+    "id": "69b58ce40693f140c84c855c",
+    "date": "2026-04-10T00:00:00.000Z",
+    "challengeNumber": 243,
+    "title": "Rook Attack"
   },
   {
-    id: "69738771fb5a7b8b24cca29e",
-    date: "2026-01-29T00:00:00.000Z",
-    challengeNumber: 172,
-    title: "Letters-Numbers",
+    "id": "69b58ce40693f140c84c855b",
+    "date": "2026-04-09T00:00:00.000Z",
+    "challengeNumber": 242,
+    "title": "Next Bingo Number"
   },
   {
-    id: "69738771fb5a7b8b24cca29d",
-    date: "2026-01-28T00:00:00.000Z",
-    challengeNumber: 171,
-    title: "Flatten the Array",
+    "id": "69b58ce40693f140c84c855a",
+    "date": "2026-04-08T00:00:00.000Z",
+    "challengeNumber": 241,
+    "title": "FizzBuzz Validator"
   },
   {
-    id: "696655d24b614176d4c9b78d",
-    date: "2026-01-27T00:00:00.000Z",
-    challengeNumber: 170,
-    title: "Odd or Even Day",
+    "id": "69b58ce40693f140c84c8559",
+    "date": "2026-04-07T00:00:00.000Z",
+    "challengeNumber": 240,
+    "title": "Palindrome Characters"
   },
   {
-    id: "696655d24b614176d4c9b78c",
-    date: "2026-01-26T00:00:00.000Z",
-    challengeNumber: 169,
-    title: "FizzBuzz Mini",
+    "id": "69b559d2903b9e4afe9075f9",
+    "date": "2026-04-06T00:00:00.000Z",
+    "challengeNumber": 239,
+    "title": "What Day Is It?"
   },
   {
-    id: "696655d24b614176d4c9b78b",
-    date: "2026-01-25T00:00:00.000Z",
-    challengeNumber: 168,
-    title: "Scaled Image",
+    "id": "69b559d2903b9e4afe9075f8",
+    "date": "2026-04-05T00:00:00.000Z",
+    "challengeNumber": 238,
+    "title": "Digit Rotation Escape"
   },
   {
-    id: "696655d24b614176d4c9b78a",
-    date: "2026-01-24T00:00:00.000Z",
-    challengeNumber: 167,
-    title: "Bingo! Letter",
+    "id": "69b559d2903b9e4afe9075f7",
+    "date": "2026-04-04T00:00:00.000Z",
+    "challengeNumber": 237,
+    "title": "Equation Validation"
   },
   {
-    id: "696655d24b614176d4c9b789",
-    date: "2026-01-23T00:00:00.000Z",
-    challengeNumber: 166,
-    title: "Hex Validator",
+    "id": "69b1028d6e265413d0198a2f",
+    "date": "2026-04-03T00:00:00.000Z",
+    "challengeNumber": 236,
+    "title": "Browser History"
   },
   {
-    id: "694596b0585c11170ac7c7fd",
-    date: "2026-01-22T00:00:00.000Z",
-    challengeNumber: 165,
-    title: "Class Average",
+    "id": "69b1028d6e265413d0198a2e",
+    "date": "2026-04-02T00:00:00.000Z",
+    "challengeNumber": 235,
+    "title": "Capitalized Fibonacci"
   },
   {
-    id: "694596b0585c11170ac7c7fc",
-    date: "2026-01-21T00:00:00.000Z",
-    challengeNumber: 164,
-    title: "Markdown Inline Code Parser",
+    "id": "69b1028d6e265413d0198a2d",
+    "date": "2026-04-01T00:00:00.000Z",
+    "challengeNumber": 234,
+    "title": "Prank Number"
   },
   {
-    id: "694596b0585c11170ac7c7fb",
-    date: "2026-01-20T00:00:00.000Z",
-    challengeNumber: 163,
-    title: "Consonant Case",
+    "id": "69b1028d6e265413d0198a2c",
+    "date": "2026-03-31T00:00:00.000Z",
+    "challengeNumber": 233,
+    "title": "Wake-Up Alarm"
   },
   {
-    id: "694596b0585c11170ac7c7fa",
-    date: "2026-01-19T00:00:00.000Z",
-    challengeNumber: 162,
-    title: "Energy Consumption",
+    "id": "69b1028d6e265413d0198a2b",
+    "date": "2026-03-30T00:00:00.000Z",
+    "challengeNumber": 232,
+    "title": "Due Date"
   },
   {
-    id: "694596b0585c11170ac7c7f9",
-    date: "2026-01-18T00:00:00.000Z",
-    challengeNumber: 161,
-    title: "Free Shipping",
+    "id": "69b1028d6e265413d0198a2a",
+    "date": "2026-03-29T00:00:00.000Z",
+    "challengeNumber": 231,
+    "title": "ISBN-10 Validator"
   },
   {
-    id: "6939b873185d8e00d453563f",
-    date: "2026-01-17T00:00:00.000Z",
-    challengeNumber: 160,
-    title: "Knight Moves",
+    "id": "69b1028d6e265413d0198a29",
+    "date": "2026-03-28T00:00:00.000Z",
+    "challengeNumber": 230,
+    "title": "Pascal's Triangle Row"
   },
   {
-    id: "6939b873185d8e00d453563e",
-    date: "2026-01-16T00:00:00.000Z",
-    challengeNumber: 159,
-    title: "Integer Hypotenuse",
+    "id": "69a890af247de743333bd4d2",
+    "date": "2026-03-27T00:00:00.000Z",
+    "challengeNumber": 229,
+    "title": "Truncate the Text 2"
   },
   {
-    id: "6939b873185d8e00d453563d",
-    date: "2026-01-15T00:00:00.000Z",
-    challengeNumber: 158,
-    title: "Array Swap",
+    "id": "69a890af247de743333bd4d1",
+    "date": "2026-03-26T00:00:00.000Z",
+    "challengeNumber": 228,
+    "title": "Movie Night"
   },
   {
-    id: "6939b873185d8e00d453563c",
-    date: "2026-01-14T00:00:00.000Z",
-    challengeNumber: 157,
-    title: "Markdown Link Parser",
+    "id": "69a890af247de743333bd4d0",
+    "date": "2026-03-25T00:00:00.000Z",
+    "challengeNumber": 227,
+    "title": "Cooldown Time"
   },
   {
-    id: "6939b873185d8e00d453563b",
-    date: "2026-01-13T00:00:00.000Z",
-    challengeNumber: 156,
-    title: "Odd or Even?",
+    "id": "69a890af247de743333bd4cf",
+    "date": "2026-03-24T00:00:00.000Z",
+    "challengeNumber": 226,
+    "title": "Passing Exam Count"
   },
   {
-    id: "69373793f5a867f769cde13a",
-    date: "2026-01-12T00:00:00.000Z",
-    challengeNumber: 155,
-    title: "Plant the Crop",
+    "id": "69a890af247de743333bd4ce",
+    "date": "2026-03-23T00:00:00.000Z",
+    "challengeNumber": 225,
+    "title": "No Consecutive Repeats"
   },
   {
-    id: "69373793f5a867f769cde139",
-    date: "2026-01-11T00:00:00.000Z",
-    challengeNumber: 154,
-    title: "Par for the Hole",
+    "id": "69a890af247de743333bd4cd",
+    "date": "2026-03-22T00:00:00.000Z",
+    "challengeNumber": 224,
+    "title": "Coffee Roast Detector"
   },
   {
-    id: "69373793f5a867f769cde138",
-    date: "2026-01-10T00:00:00.000Z",
-    challengeNumber: 153,
-    title: "Tic-Tac-Toe",
+    "id": "69a890af247de743333bd4cc",
+    "date": "2026-03-21T00:00:00.000Z",
+    "challengeNumber": 223,
+    "title": "QR Decoder"
   },
   {
-    id: "69373793f5a867f769cde137",
-    date: "2026-01-09T00:00:00.000Z",
-    challengeNumber: 152,
-    title: "Circular Prime",
+    "id": "699c8e045ee7cb94ed2322dd",
+    "date": "2026-03-20T00:00:00.000Z",
+    "challengeNumber": 222,
+    "title": "Equinox Shadows"
   },
   {
-    id: "69373793f5a867f769cde136",
-    date: "2026-01-08T00:00:00.000Z",
-    challengeNumber: 151,
-    title: "Sorted Array?",
+    "id": "699c8e045ee7cb94ed2322dc",
+    "date": "2026-03-19T00:00:00.000Z",
+    "challengeNumber": 221,
+    "title": "Inverted Matrix"
   },
   {
-    id: "69373793f5a867f769cde135",
-    date: "2026-01-07T00:00:00.000Z",
-    challengeNumber: 150,
-    title: "Markdown Unordered List Parser",
+    "id": "699c8e045ee7cb94ed2322db",
+    "date": "2026-03-18T00:00:00.000Z",
+    "challengeNumber": 220,
+    "title": "Largest Number"
   },
   {
-    id: "69306364df283fcaff2e1ada",
-    date: "2026-01-06T00:00:00.000Z",
-    challengeNumber: 149,
-    title: "vOwElcAsE",
+    "id": "699c8e045ee7cb94ed2322da",
+    "date": "2026-03-17T00:00:00.000Z",
+    "challengeNumber": 219,
+    "title": "Anniversary Milestones"
   },
   {
-    id: "69306364df283fcaff2e1ad9",
-    date: "2026-01-05T00:00:00.000Z",
-    challengeNumber: 148,
-    title: "Tire Pressure",
+    "id": "699c8e045ee7cb94ed2322d9",
+    "date": "2026-03-16T00:00:00.000Z",
+    "challengeNumber": 218,
+    "title": "Evenly Divisible"
   },
   {
-    id: "69306364df283fcaff2e1ad8",
-    date: "2026-01-04T00:00:00.000Z",
-    challengeNumber: 147,
-    title: "Leap Year Calculator",
+    "id": "699c8e045ee7cb94ed2322d8",
+    "date": "2026-03-15T00:00:00.000Z",
+    "challengeNumber": 217,
+    "title": "Captured Chess Pieces"
   },
   {
-    id: "69306364df283fcaff2e1ad7",
-    date: "2026-01-03T00:00:00.000Z",
-    challengeNumber: 146,
-    title: "Left-Handed Seat at the Table",
+    "id": "699c8e045ee7cb94ed2322d7",
+    "date": "2026-03-14T00:00:00.000Z",
+    "challengeNumber": 216,
+    "title": "Pi Day"
   },
   {
-    id: "69306364df283fcaff2e1ad6",
-    date: "2026-01-02T00:00:00.000Z",
-    challengeNumber: 145,
-    title: "Nth Fibonacci Number",
+    "id": "699c8e045ee7cb94ed2322d6",
+    "date": "2026-03-13T00:00:00.000Z",
+    "challengeNumber": 215,
+    "title": "Parking Fee Calculator"
   },
   {
-    id: "69306364df283fcaff2e1ad5",
-    date: "2026-01-01T00:00:00.000Z",
-    challengeNumber: 144,
-    title: "Resolution Streak",
+    "id": "699c8e045ee7cb94ed2322d5",
+    "date": "2026-03-12T00:00:00.000Z",
+    "challengeNumber": 214,
+    "title": "Domino Chain Validator"
   },
   {
-    id: "69272dcf1c24b44fd79137c6",
-    date: "2025-12-31T00:00:00.000Z",
-    challengeNumber: 143,
-    title: "Markdown Italic Parser",
+    "id": "699c8e045ee7cb94ed2322d4",
+    "date": "2026-03-11T00:00:00.000Z",
+    "challengeNumber": 213,
+    "title": "Word Length Converter"
   },
   {
-    id: "69272dcf1c24b44fd79137c5",
-    date: "2025-12-30T00:00:00.000Z",
-    challengeNumber: 142,
-    title: "Sum the String",
+    "id": "6994cff2290543b3aec9f511",
+    "date": "2026-03-10T00:00:00.000Z",
+    "challengeNumber": 212,
+    "title": "Array Insertion"
   },
   {
-    id: "69272dcf1c24b44fd79137c4",
-    date: "2025-12-29T00:00:00.000Z",
-    challengeNumber: 141,
-    title: "Takeoff Fuel",
+    "id": "6994cff2290543b3aec9f510",
+    "date": "2026-03-09T00:00:00.000Z",
+    "challengeNumber": 211,
+    "title": "Array Sum"
   },
   {
-    id: "69272dcf1c24b44fd79137c3",
-    date: "2025-12-28T00:00:00.000Z",
-    challengeNumber: 140,
-    title: "SCREAMING_SNAKE_CASE",
+    "id": "6994cff2290543b3aec9f50f",
+    "date": "2026-03-08T00:00:00.000Z",
+    "challengeNumber": 210,
+    "title": "HSL Validator"
   },
   {
-    id: "6925e2068081f40f549ced1d",
-    date: "2025-12-27T00:00:00.000Z",
-    challengeNumber: 139,
-    title: "Rock, Paper, Scissors",
+    "id": "698a1a863194f1f4e63f6460",
+    "date": "2026-03-07T00:00:00.000Z",
+    "challengeNumber": 209,
+    "title": "Element Size"
   },
   {
-    id: "6925e2068081f40f549ced1c",
-    date: "2025-12-26T00:00:00.000Z",
-    challengeNumber: 138,
-    title: "Sum of Divisors",
+    "id": "698a1a863194f1f4e63f645f",
+    "date": "2026-03-06T00:00:00.000Z",
+    "challengeNumber": 208,
+    "title": "Trail Traversal"
   },
   {
-    id: "6925e2068081f40f549ced1b",
-    date: "2025-12-25T00:00:00.000Z",
-    challengeNumber: 137,
-    title: "Snowflake Generator",
+    "id": "698a1a863194f1f4e63f645e",
+    "date": "2026-03-05T00:00:00.000Z",
+    "challengeNumber": 207,
+    "title": "Smallest Gap"
   },
   {
-    id: "6925e2068081f40f549ced1a",
-    date: "2025-12-24T00:00:00.000Z",
-    challengeNumber: 136,
-    title: "Markdown Image Parser",
+    "id": "698a1a73ade5ac0e19180fa9",
+    "date": "2026-03-04T00:00:00.000Z",
+    "challengeNumber": 206,
+    "title": "Playing Card Values"
   },
   {
-    id: "691f7773cddba1caf1bf5ece",
-    date: "2025-12-23T00:00:00.000Z",
-    challengeNumber: 135,
-    title: "Re: Fwd: Fw: Count",
+    "id": "698a1a73ade5ac0e19180fa8",
+    "date": "2026-03-03T00:00:00.000Z",
+    "challengeNumber": 205,
+    "title": "Perfect Cube Count"
   },
   {
-    id: "691f7773cddba1caf1bf5ecd",
-    date: "2025-12-22T00:00:00.000Z",
-    challengeNumber: 134,
-    title: "Traveling Shopper",
+    "id": "698a1a73ade5ac0e19180fa7",
+    "date": "2026-03-02T00:00:00.000Z",
+    "challengeNumber": 204,
+    "title": "Sum the Letters"
   },
   {
-    id: "691f7773cddba1caf1bf5ecc",
-    date: "2025-12-21T00:00:00.000Z",
-    challengeNumber: 133,
-    title: "Daylight Hours",
+    "id": "698a1a73ade5ac0e19180fa6",
+    "date": "2026-03-01T00:00:00.000Z",
+    "challengeNumber": 203,
+    "title": "Flattened"
   },
   {
-    id: "691f7773cddba1caf1bf5ecb",
-    date: "2025-12-20T00:00:00.000Z",
-    challengeNumber: 132,
-    title: "Purge Most Frequent",
+    "id": "698a1a73ade5ac0e19180fa5",
+    "date": "2026-02-28T00:00:00.000Z",
+    "challengeNumber": 202,
+    "title": "Add Punctuation"
   },
   {
-    id: "691f7773cddba1caf1bf5eca",
-    date: "2025-12-19T00:00:00.000Z",
-    challengeNumber: 131,
-    title: "Pairwise",
+    "id": "698a1a73ade5ac0e19180fa4",
+    "date": "2026-02-27T00:00:00.000Z",
+    "challengeNumber": 201,
+    "title": "Matrix Shift"
   },
   {
-    id: "691b5597f0f3e85a588a5c94",
-    date: "2025-12-18T00:00:00.000Z",
-    challengeNumber: 130,
-    title: "Checkerboard",
+    "id": "698a1a73ade5ac0e19180fa3",
+    "date": "2026-02-26T00:00:00.000Z",
+    "challengeNumber": 200,
+    "title": "Letter and Number Count"
   },
   {
-    id: "691b559495c5cb5a37b9b489",
-    date: "2025-12-17T00:00:00.000Z",
-    challengeNumber: 129,
-    title: "Markdown Blockquote Parser",
+    "id": "698a1a73ade5ac0e19180fa2",
+    "date": "2026-02-25T00:00:00.000Z",
+    "challengeNumber": 199,
+    "title": "Sequential Difference"
   },
   {
-    id: "691b559495c5cb5a37b9b488",
-    date: "2025-12-16T00:00:00.000Z",
-    challengeNumber: 128,
-    title: "Consonant Count",
+    "id": "698a1a73ade5ac0e19180fa1",
+    "date": "2026-02-24T00:00:00.000Z",
+    "challengeNumber": 198,
+    "title": "Business Day Count"
   },
   {
-    id: "691b559495c5cb5a37b9b487",
-    date: "2025-12-15T00:00:00.000Z",
-    challengeNumber: 127,
-    title: "Speed Check",
+    "id": "698a1a73ade5ac0e19180fa0",
+    "date": "2026-02-23T00:00:00.000Z",
+    "challengeNumber": 197,
+    "title": "Blood Type Compatibility"
   },
   {
-    id: "691b559495c5cb5a37b9b486",
-    date: "2025-12-14T00:00:00.000Z",
-    challengeNumber: 126,
-    title: "Capitalize It",
+    "id": "697a49e9860d24853adef681",
+    "date": "2026-02-22T00:00:00.000Z",
+    "challengeNumber": 196,
+    "title": "2026 Winter Games Day 17: Closing Day"
   },
   {
-    id: "691b559495c5cb5a37b9b485",
-    date: "2025-12-13T00:00:00.000Z",
-    challengeNumber: 125,
-    title: "Game of Life",
+    "id": "697a49e9860d24853adef680",
+    "date": "2026-02-21T00:00:00.000Z",
+    "challengeNumber": 195,
+    "title": "2026 Winter Games Day 16: Curling"
   },
   {
-    id: "691b559495c5cb5a37b9b484",
-    date: "2025-12-12T00:00:00.000Z",
-    challengeNumber: 124,
-    title: "Inventory Update",
+    "id": "697a49e9860d24853adef67f",
+    "date": "2026-02-20T00:00:00.000Z",
+    "challengeNumber": 194,
+    "title": "2026 Winter Games Day 15: Freestyle Skiing"
   },
   {
-    id: "691b559495c5cb5a37b9b483",
-    date: "2025-12-11T00:00:00.000Z",
-    challengeNumber: 123,
-    title: "Roman Numeral Builder",
+    "id": "697a49e9860d24853adef67e",
+    "date": "2026-02-19T00:00:00.000Z",
+    "challengeNumber": 193,
+    "title": "2026 Winter Games Day 14: Ski Mountaineering"
   },
   {
-    id: "691b559495c5cb5a37b9b482",
-    date: "2025-12-10T00:00:00.000Z",
-    challengeNumber: 122,
-    title: "Markdown Bold Parser",
+    "id": "697a49e9860d24853adef67d",
+    "date": "2026-02-18T00:00:00.000Z",
+    "challengeNumber": 192,
+    "title": "2026 Winter Games Day 13: Nordic Combined"
   },
   {
-    id: "691b559495c5cb5a37b9b481",
-    date: "2025-12-09T00:00:00.000Z",
-    challengeNumber: 121,
-    title: "Most Frequent",
+    "id": "697a49e9860d24853adef67c",
+    "date": "2026-02-17T00:00:00.000Z",
+    "challengeNumber": 191,
+    "title": "2026 Winter Games Day 12: Bobsled"
   },
   {
-    id: "691b559495c5cb5a37b9b480",
-    date: "2025-12-08T00:00:00.000Z",
-    challengeNumber: 120,
-    title: "Pounds to Kilograms",
+    "id": "697a49e9860d24853adef67b",
+    "date": "2026-02-16T00:00:00.000Z",
+    "challengeNumber": 190,
+    "title": "2026 Winter Games Day 11: Ice Hockey"
   },
   {
-    id: "69162d64f96574d9bb629f04",
-    date: "2025-12-07T00:00:00.000Z",
-    challengeNumber: 119,
-    title: "String Compression",
+    "id": "697a49e6ff50d756c9b69366",
+    "date": "2026-02-15T00:00:00.000Z",
+    "challengeNumber": 189,
+    "title": "2026 Winter Games Day 10: Alpine Skiing"
   },
   {
-    id: "69162d64f96574d9bb629f03",
-    date: "2025-12-06T00:00:00.000Z",
-    challengeNumber: 118,
-    title: "Date Formatter",
+    "id": "697a49e6ff50d756c9b69365",
+    "date": "2026-02-14T00:00:00.000Z",
+    "challengeNumber": 188,
+    "title": "2026 Winter Games Day 9: Skeleton"
   },
   {
-    id: "69162d64f96574d9bb629f02",
-    date: "2025-12-05T00:00:00.000Z",
-    challengeNumber: 117,
-    title: "Symmetric Difference",
+    "id": "697a49e6ff50d756c9b69364",
+    "date": "2026-02-13T00:00:00.000Z",
+    "challengeNumber": 187,
+    "title": "2026 Winter Games Day 8: Luge"
   },
   {
-    id: "69162d64f96574d9bb629f01",
-    date: "2025-12-04T00:00:00.000Z",
-    challengeNumber: 116,
-    title: "Permutation Count",
+    "id": "697a49e6ff50d756c9b69363",
+    "date": "2026-02-12T00:00:00.000Z",
+    "challengeNumber": 186,
+    "title": "2026 Winter Games Day 7: Speed Skating"
   },
   {
-    id: "69162d64f96574d9bb629f00",
-    date: "2025-12-03T00:00:00.000Z",
-    challengeNumber: 115,
-    title: "Markdown Ordered List Item Converter",
+    "id": "697a49e6ff50d756c9b69362",
+    "date": "2026-02-11T00:00:00.000Z",
+    "challengeNumber": 185,
+    "title": "2026 Winter Games Day 6: Figure Skating"
   },
   {
-    id: "69162d64f96574d9bb629eff",
-    date: "2025-12-02T00:00:00.000Z",
-    challengeNumber: 114,
-    title: "Camel to Snake",
+    "id": "697a49e6ff50d756c9b69361",
+    "date": "2026-02-10T00:00:00.000Z",
+    "challengeNumber": 184,
+    "title": "2026 Winter Games Day 5: Cross-Country Skiing"
   },
   {
-    id: "69162d64f96574d9bb629efe",
-    date: "2025-12-01T00:00:00.000Z",
-    challengeNumber: 113,
-    title: "Miles to Kilometers",
+    "id": "697a49e6ff50d756c9b69360",
+    "date": "2026-02-09T00:00:00.000Z",
+    "challengeNumber": 183,
+    "title": "2026 Winter Games Day 4: Ski Jumping"
   },
   {
-    id: "69162d64f96574d9bb629efd",
-    date: "2025-11-30T00:00:00.000Z",
-    challengeNumber: 112,
-    title: "AI Detector",
+    "id": "697a49e6ff50d756c9b6935f",
+    "date": "2026-02-08T00:00:00.000Z",
+    "challengeNumber": 182,
+    "title": "2026 Winter Games Day 3: Biathlon"
   },
   {
-    id: "69162d64f96574d9bb629efc",
-    date: "2025-11-29T00:00:00.000Z",
-    challengeNumber: 111,
-    title: "Ball Trajectory",
+    "id": "697a49e6ff50d756c9b6935e",
+    "date": "2026-02-07T00:00:00.000Z",
+    "challengeNumber": 181,
+    "title": "2026 Winter Games Day 2: Snowboarding"
   },
   {
-    id: "69162d64f96574d9bb629efb",
-    date: "2025-11-28T00:00:00.000Z",
-    challengeNumber: 110,
-    title: "Word Guesser",
+    "id": "697a49e6ff50d756c9b6935d",
+    "date": "2026-02-06T00:00:00.000Z",
+    "challengeNumber": 180,
+    "title": "2026 Winter Games Day 1: Opening Day"
   },
   {
-    id: "68ffb91507a5b645769328cc",
-    date: "2025-11-27T00:00:00.000Z",
-    challengeNumber: 109,
-    title: "What's My Age Again?",
+    "id": "69738771fb5a7b8b24cca2a5",
+    "date": "2026-02-05T00:00:00.000Z",
+    "challengeNumber": 179,
+    "title": "Pocket Change"
   },
   {
-    id: "68ffb91507a5b645769328cb",
-    date: "2025-11-26T00:00:00.000Z",
-    challengeNumber: 108,
-    title: "BuzzFizz",
+    "id": "69738771fb5a7b8b24cca2a4",
+    "date": "2026-02-04T00:00:00.000Z",
+    "challengeNumber": 178,
+    "title": "Truncate the Text"
   },
   {
-    id: "68ffb91507a5b645769328ca",
-    date: "2025-11-25T00:00:00.000Z",
-    challengeNumber: 107,
-    title: "FizzBuzz",
+    "id": "69738771fb5a7b8b24cca2a3",
+    "date": "2026-02-03T00:00:00.000Z",
+    "challengeNumber": 177,
+    "title": "String Mirror"
   },
   {
-    id: "68ffb91507a5b645769328c9",
-    date: "2025-11-24T00:00:00.000Z",
-    challengeNumber: 106,
-    title: "Message Validator",
+    "id": "69738771fb5a7b8b24cca2a2",
+    "date": "2026-02-02T00:00:00.000Z",
+    "challengeNumber": 176,
+    "title": "Groundhog Day"
   },
   {
-    id: "68ffb91507a5b645769328c8",
-    date: "2025-11-23T00:00:00.000Z",
-    challengeNumber: 105,
-    title: "Character Count",
+    "id": "69738771fb5a7b8b24cca2a1",
+    "date": "2026-02-01T00:00:00.000Z",
+    "challengeNumber": 175,
+    "title": "Digital Detox"
   },
   {
-    id: "68ffb91507a5b645769328c7",
-    date: "2025-11-22T00:00:00.000Z",
-    challengeNumber: 104,
-    title: "Recipe Scaler",
+    "id": "69738771fb5a7b8b24cca2a0",
+    "date": "2026-01-31T00:00:00.000Z",
+    "challengeNumber": 174,
+    "title": "Zodiac Finder"
   },
   {
-    id: "68ffb91507a5b645769328c6",
-    date: "2025-11-21T00:00:00.000Z",
-    challengeNumber: 103,
-    title: "LCM",
+    "id": "69738771fb5a7b8b24cca29f",
+    "date": "2026-01-30T00:00:00.000Z",
+    "challengeNumber": 173,
+    "title": "Valid Pawn Moves"
   },
   {
-    id: "68ffb91507a5b645769328c5",
-    date: "2025-11-20T00:00:00.000Z",
-    challengeNumber: 102,
-    title: "Longest Word",
+    "id": "69738771fb5a7b8b24cca29e",
+    "date": "2026-01-29T00:00:00.000Z",
+    "challengeNumber": 172,
+    "title": "Letters-Numbers"
   },
   {
-    id: "68ffb91507a5b645769328c4",
-    date: "2025-11-19T00:00:00.000Z",
-    challengeNumber: 101,
-    title: "Markdown Heading Converter",
+    "id": "69738771fb5a7b8b24cca29d",
+    "date": "2026-01-28T00:00:00.000Z",
+    "challengeNumber": 171,
+    "title": "Flatten the Array"
   },
   {
-    id: "68ffb91507a5b645769328c3",
-    date: "2025-11-18T00:00:00.000Z",
-    challengeNumber: 100,
-    title: "100 Characters",
+    "id": "696655d24b614176d4c9b78d",
+    "date": "2026-01-27T00:00:00.000Z",
+    "challengeNumber": 170,
+    "title": "Odd or Even Day"
   },
   {
-    id: "68f6587287ad1f4ad39b0c85",
-    date: "2025-11-17T00:00:00.000Z",
-    challengeNumber: 99,
-    title: "Fingerprint Test",
+    "id": "696655d24b614176d4c9b78c",
+    "date": "2026-01-26T00:00:00.000Z",
+    "challengeNumber": 169,
+    "title": "FizzBuzz Mini"
   },
   {
-    id: "68f6587287ad1f4ad39b0c84",
-    date: "2025-11-16T00:00:00.000Z",
-    challengeNumber: 98,
-    title: "Rectangle Count",
+    "id": "696655d24b614176d4c9b78b",
+    "date": "2026-01-25T00:00:00.000Z",
+    "challengeNumber": 168,
+    "title": "Scaled Image"
   },
   {
-    id: "68f6587287ad1f4ad39b0c83",
-    date: "2025-11-15T00:00:00.000Z",
-    challengeNumber: 97,
-    title: "GCD",
+    "id": "696655d24b614176d4c9b78a",
+    "date": "2026-01-24T00:00:00.000Z",
+    "challengeNumber": 167,
+    "title": "Bingo! Letter"
   },
   {
-    id: "68f6587287ad1f4ad39b0c82",
-    date: "2025-11-14T00:00:00.000Z",
-    challengeNumber: 96,
-    title: "Is It the Weekend?",
+    "id": "696655d24b614176d4c9b789",
+    "date": "2026-01-23T00:00:00.000Z",
+    "challengeNumber": 166,
+    "title": "Hex Validator"
   },
   {
-    id: "68f6587287ad1f4ad39b0c81",
-    date: "2025-11-13T00:00:00.000Z",
-    challengeNumber: 95,
-    title: "Array Shift",
+    "id": "694596b0585c11170ac7c7fd",
+    "date": "2026-01-22T00:00:00.000Z",
+    "challengeNumber": 165,
+    "title": "Class Average"
   },
   {
-    id: "68f6587287ad1f4ad39b0c80",
-    date: "2025-11-12T00:00:00.000Z",
-    challengeNumber: 94,
-    title: "Email Signature Generator",
+    "id": "694596b0585c11170ac7c7fc",
+    "date": "2026-01-21T00:00:00.000Z",
+    "challengeNumber": 164,
+    "title": "Markdown Inline Code Parser"
   },
   {
-    id: "68f6587287ad1f4ad39b0c7f",
-    date: "2025-11-11T00:00:00.000Z",
-    challengeNumber: 93,
-    title: "Vowels and Consonants",
+    "id": "694596b0585c11170ac7c7fb",
+    "date": "2026-01-20T00:00:00.000Z",
+    "challengeNumber": 163,
+    "title": "Consonant Case"
   },
   {
-    id: "68f6587287ad1f4ad39b0c7e",
-    date: "2025-11-10T00:00:00.000Z",
-    challengeNumber: 92,
-    title: "Extension Extractor",
+    "id": "694596b0585c11170ac7c7fa",
+    "date": "2026-01-19T00:00:00.000Z",
+    "challengeNumber": 162,
+    "title": "Energy Consumption"
   },
   {
-    id: "68f6587287ad1f4ad39b0c7d",
-    date: "2025-11-09T00:00:00.000Z",
-    challengeNumber: 91,
-    title: "Word Search",
+    "id": "694596b0585c11170ac7c7f9",
+    "date": "2026-01-18T00:00:00.000Z",
+    "challengeNumber": 161,
+    "title": "Free Shipping"
   },
   {
-    id: "68f6587287ad1f4ad39b0c7c",
-    date: "2025-11-08T00:00:00.000Z",
-    challengeNumber: 90,
-    title: "Character Limit",
+    "id": "6939b873185d8e00d453563f",
+    "date": "2026-01-17T00:00:00.000Z",
+    "challengeNumber": 160,
+    "title": "Knight Moves"
   },
   {
-    id: "68ee9e3066cfd4eb2328e8a8",
-    date: "2025-11-07T00:00:00.000Z",
-    challengeNumber: 89,
-    title: "Counting Cards",
+    "id": "6939b873185d8e00d453563e",
+    "date": "2026-01-16T00:00:00.000Z",
+    "challengeNumber": 159,
+    "title": "Integer Hypotenuse"
   },
   {
-    id: "68ee9e3066cfd4eb2328e8a7",
-    date: "2025-11-06T00:00:00.000Z",
-    challengeNumber: 88,
-    title: "Weekday Finder",
+    "id": "6939b873185d8e00d453563d",
+    "date": "2026-01-15T00:00:00.000Z",
+    "challengeNumber": 158,
+    "title": "Array Swap"
   },
   {
-    id: "68ee9e3066cfd4eb2328e8a6",
-    date: "2025-11-05T00:00:00.000Z",
-    challengeNumber: 87,
-    title: "Matrix Builder",
+    "id": "6939b873185d8e00d453563c",
+    "date": "2026-01-14T00:00:00.000Z",
+    "challengeNumber": 157,
+    "title": "Markdown Link Parser"
   },
   {
-    id: "68ee9e3066cfd4eb2328e8a5",
-    date: "2025-11-04T00:00:00.000Z",
-    challengeNumber: 86,
-    title: "Image Search",
+    "id": "6939b873185d8e00d453563b",
+    "date": "2026-01-13T00:00:00.000Z",
+    "challengeNumber": 156,
+    "title": "Odd or Even?"
   },
   {
-    id: "68ee9e3066cfd4eb2328e8a4",
-    date: "2025-11-03T00:00:00.000Z",
-    challengeNumber: 85,
-    title: "Word Counter",
+    "id": "69373793f5a867f769cde13a",
+    "date": "2026-01-12T00:00:00.000Z",
+    "challengeNumber": 155,
+    "title": "Plant the Crop"
   },
   {
-    id: "68e39ed6106dac2f0a98fd66",
-    date: "2025-11-02T00:00:00.000Z",
-    challengeNumber: 84,
-    title: "Infected",
+    "id": "69373793f5a867f769cde139",
+    "date": "2026-01-11T00:00:00.000Z",
+    "challengeNumber": 154,
+    "title": "Par for the Hole"
   },
   {
-    id: "68e39ed6106dac2f0a98fd65",
-    date: "2025-11-01T00:00:00.000Z",
-    challengeNumber: 83,
-    title: "Signature Validation",
+    "id": "69373793f5a867f769cde138",
+    "date": "2026-01-10T00:00:00.000Z",
+    "challengeNumber": 153,
+    "title": "Tic-Tac-Toe"
   },
   {
-    id: "68e39ed6106dac2f0a98fd64",
-    date: "2025-10-31T00:00:00.000Z",
-    challengeNumber: 82,
-    title: "SpOoKy~CaSe",
+    "id": "69373793f5a867f769cde137",
+    "date": "2026-01-09T00:00:00.000Z",
+    "challengeNumber": 152,
+    "title": "Circular Prime"
   },
   {
-    id: "68e39ed6106dac2f0a98fd63",
-    date: "2025-10-30T00:00:00.000Z",
-    challengeNumber: 81,
-    title: "Nth Prime",
+    "id": "69373793f5a867f769cde136",
+    "date": "2026-01-08T00:00:00.000Z",
+    "challengeNumber": 151,
+    "title": "Sorted Array?"
   },
   {
-    id: "68e39ed6106dac2f0a98fd62",
-    date: "2025-10-29T00:00:00.000Z",
-    challengeNumber: 80,
-    title: "Email Sorter",
+    "id": "69373793f5a867f769cde135",
+    "date": "2026-01-07T00:00:00.000Z",
+    "challengeNumber": 150,
+    "title": "Markdown Unordered List Parser"
   },
   {
-    id: "68d30fc57588d97fd3027b30",
-    date: "2025-10-28T00:00:00.000Z",
-    challengeNumber: 79,
-    title: "Navigator",
+    "id": "69306364df283fcaff2e1ada",
+    "date": "2026-01-06T00:00:00.000Z",
+    "challengeNumber": 149,
+    "title": "vOwElcAsE"
   },
   {
-    id: "68d30845cc08266018fc46be",
-    date: "2025-10-27T00:00:00.000Z",
-    challengeNumber: 78,
-    title: "Integer Sequence",
+    "id": "69306364df283fcaff2e1ad9",
+    "date": "2026-01-05T00:00:00.000Z",
+    "challengeNumber": 148,
+    "title": "Tire Pressure"
   },
   {
-    id: "68d30845cc08266018fc46bd",
-    date: "2025-10-26T00:00:00.000Z",
-    challengeNumber: 77,
-    title: "Duration Formatter",
+    "id": "69306364df283fcaff2e1ad8",
+    "date": "2026-01-04T00:00:00.000Z",
+    "challengeNumber": 147,
+    "title": "Leap Year Calculator"
   },
   {
-    id: "68d30845cc08266018fc46bc",
-    date: "2025-10-25T00:00:00.000Z",
-    challengeNumber: 76,
-    title: "Complementary DNA",
+    "id": "69306364df283fcaff2e1ad7",
+    "date": "2026-01-03T00:00:00.000Z",
+    "challengeNumber": 146,
+    "title": "Left-Handed Seat at the Table"
   },
   {
-    id: "68d2ba1468508398389487d0",
-    date: "2025-10-24T00:00:00.000Z",
-    challengeNumber: 75,
-    title: "Hidden Treasure",
+    "id": "69306364df283fcaff2e1ad6",
+    "date": "2026-01-02T00:00:00.000Z",
+    "challengeNumber": 145,
+    "title": "Nth Fibonacci Number"
   },
   {
-    id: "68d2ba1468508398389487cf",
-    date: "2025-10-23T00:00:00.000Z",
-    challengeNumber: 74,
-    title: "Favorite Songs",
+    "id": "69306364df283fcaff2e1ad5",
+    "date": "2026-01-01T00:00:00.000Z",
+    "challengeNumber": 144,
+    "title": "Resolution Streak"
   },
   {
-    id: "68d2ba1468508398389487ce",
-    date: "2025-10-22T00:00:00.000Z",
-    challengeNumber: 73,
-    title: "Speak Wisely, You Must",
+    "id": "69272dcf1c24b44fd79137c6",
+    "date": "2025-12-31T00:00:00.000Z",
+    "challengeNumber": 143,
+    "title": "Markdown Italic Parser"
   },
   {
-    id: "68cae5b538ff798bbd4da00a",
-    date: "2025-10-21T00:00:00.000Z",
-    challengeNumber: 72,
-    title: "Thermostat Adjuster 2",
+    "id": "69272dcf1c24b44fd79137c5",
+    "date": "2025-12-30T00:00:00.000Z",
+    "challengeNumber": 142,
+    "title": "Sum the String"
   },
   {
-    id: "68cae5b538ff798bbd4da009",
-    date: "2025-10-20T00:00:00.000Z",
-    challengeNumber: 71,
-    title: "Tip Calculator",
+    "id": "69272dcf1c24b44fd79137c4",
+    "date": "2025-12-29T00:00:00.000Z",
+    "challengeNumber": 141,
+    "title": "Takeoff Fuel"
   },
   {
-    id: "68cae5b538ff798bbd4da008",
-    date: "2025-10-19T00:00:00.000Z",
-    challengeNumber: 70,
-    title: "HTML Attribute Extractor",
+    "id": "69272dcf1c24b44fd79137c3",
+    "date": "2025-12-28T00:00:00.000Z",
+    "challengeNumber": 140,
+    "title": "SCREAMING_SNAKE_CASE"
   },
   {
-    id: "68cae5b538ff798bbd4da007",
-    date: "2025-10-18T00:00:00.000Z",
-    challengeNumber: 69,
-    title: "Missing Socks",
+    "id": "6925e2068081f40f549ced1d",
+    "date": "2025-12-27T00:00:00.000Z",
+    "challengeNumber": 139,
+    "title": "Rock, Paper, Scissors"
   },
   {
-    id: "68cae5b538ff798bbd4da006",
-    date: "2025-10-17T00:00:00.000Z",
-    challengeNumber: 68,
-    title: "Credit Card Masker",
+    "id": "6925e2068081f40f549ced1c",
+    "date": "2025-12-26T00:00:00.000Z",
+    "challengeNumber": 138,
+    "title": "Sum of Divisors"
   },
   {
-    id: "68cae5b538ff798bbd4da005",
-    date: "2025-10-16T00:00:00.000Z",
-    challengeNumber: 67,
-    title: "Email Validator",
+    "id": "6925e2068081f40f549ced1b",
+    "date": "2025-12-25T00:00:00.000Z",
+    "challengeNumber": 137,
+    "title": "Snowflake Generator"
   },
   {
-    id: "68cae5b538ff798bbd4da004",
-    date: "2025-10-15T00:00:00.000Z",
-    challengeNumber: 66,
-    title: "HTML Tag Stripper",
+    "id": "6925e2068081f40f549ced1a",
+    "date": "2025-12-24T00:00:00.000Z",
+    "challengeNumber": 136,
+    "title": "Markdown Image Parser"
   },
   {
-    id: "68cae5b538ff798bbd4da003",
-    date: "2025-10-14T00:00:00.000Z",
-    challengeNumber: 65,
-    title: "String Count",
+    "id": "691f7773cddba1caf1bf5ece",
+    "date": "2025-12-23T00:00:00.000Z",
+    "challengeNumber": 135,
+    "title": "Re: Fwd: Fw: Count"
   },
   {
-    id: "68cae5b538ff798bbd4da002",
-    date: "2025-10-13T00:00:00.000Z",
-    challengeNumber: 64,
-    title: "24 to 12",
+    "id": "691f7773cddba1caf1bf5ecd",
+    "date": "2025-12-22T00:00:00.000Z",
+    "challengeNumber": 134,
+    "title": "Traveling Shopper"
   },
   {
-    id: "68cae5b538ff798bbd4da001",
-    date: "2025-10-12T00:00:00.000Z",
-    challengeNumber: 63,
-    title: "Battle of Words",
+    "id": "691f7773cddba1caf1bf5ecc",
+    "date": "2025-12-21T00:00:00.000Z",
+    "challengeNumber": 133,
+    "title": "Daylight Hours"
   },
   {
-    id: "68c497f3aaefc9fd9f1b0e26",
-    date: "2025-10-11T00:00:00.000Z",
-    challengeNumber: 62,
-    title: "Hex to Decimal",
+    "id": "691f7773cddba1caf1bf5ecb",
+    "date": "2025-12-20T00:00:00.000Z",
+    "challengeNumber": 132,
+    "title": "Purge Most Frequent"
   },
   {
-    id: "68c497f3aaefc9fd9f1b0e25",
-    date: "2025-10-10T00:00:00.000Z",
-    challengeNumber: 61,
-    title: "Space Week Day 7: Launch Fuel",
+    "id": "691f7773cddba1caf1bf5eca",
+    "date": "2025-12-19T00:00:00.000Z",
+    "challengeNumber": 131,
+    "title": "Pairwise"
   },
   {
-    id: "68c497f3aaefc9fd9f1b0e24",
-    date: "2025-10-09T00:00:00.000Z",
-    challengeNumber: 60,
-    title: "Space Week Day 6: Moon Phase",
+    "id": "691b5597f0f3e85a588a5c94",
+    "date": "2025-12-18T00:00:00.000Z",
+    "challengeNumber": 130,
+    "title": "Checkerboard"
   },
   {
-    id: "68c1a929005bf54d342aa8d6",
-    date: "2025-10-08T00:00:00.000Z",
-    challengeNumber: 59,
-    title: "Space Week Day 5: Goldilocks Zone",
+    "id": "691b559495c5cb5a37b9b489",
+    "date": "2025-12-17T00:00:00.000Z",
+    "challengeNumber": 129,
+    "title": "Markdown Blockquote Parser"
   },
   {
-    id: "68c1a929005bf54d342aa8d5",
-    date: "2025-10-07T00:00:00.000Z",
-    challengeNumber: 58,
-    title: "Space Week Day 4: Landing Spot",
+    "id": "691b559495c5cb5a37b9b488",
+    "date": "2025-12-16T00:00:00.000Z",
+    "challengeNumber": 128,
+    "title": "Consonant Count"
   },
   {
-    id: "68c1a929005bf54d342aa8d4",
-    date: "2025-10-06T00:00:00.000Z",
-    challengeNumber: 57,
-    title: "Space Week Day 3: Phone Home",
+    "id": "691b559495c5cb5a37b9b487",
+    "date": "2025-12-15T00:00:00.000Z",
+    "challengeNumber": 127,
+    "title": "Speed Check"
   },
   {
-    id: "68c1a929005bf54d342aa8d3",
-    date: "2025-10-05T00:00:00.000Z",
-    challengeNumber: 56,
-    title: "Space Week Day 2: Exoplanet Search",
+    "id": "691b559495c5cb5a37b9b486",
+    "date": "2025-12-14T00:00:00.000Z",
+    "challengeNumber": 126,
+    "title": "Capitalize It"
   },
   {
-    id: "68c1a929005bf54d342aa8d2",
-    date: "2025-10-04T00:00:00.000Z",
-    challengeNumber: 55,
-    title: "Space Week Day 1: Stellar Classification",
+    "id": "691b559495c5cb5a37b9b485",
+    "date": "2025-12-13T00:00:00.000Z",
+    "challengeNumber": 125,
+    "title": "Game of Life"
   },
   {
-    id: "68b7cadffed0e75a517da677",
-    date: "2025-10-03T00:00:00.000Z",
-    challengeNumber: 54,
-    title: "P@ssw0rd Str3ngth!",
+    "id": "691b559495c5cb5a37b9b484",
+    "date": "2025-12-12T00:00:00.000Z",
+    "challengeNumber": 124,
+    "title": "Inventory Update"
   },
   {
-    id: "68b7cadffed0e75a517da675",
-    date: "2025-10-02T00:00:00.000Z",
-    challengeNumber: 53,
-    title: "Decimal to Binary",
+    "id": "691b559495c5cb5a37b9b483",
+    "date": "2025-12-11T00:00:00.000Z",
+    "challengeNumber": 123,
+    "title": "Roman Numeral Builder"
   },
   {
-    id: "68b7cadffed0e75a517da673",
-    date: "2025-10-01T00:00:00.000Z",
-    challengeNumber: 52,
-    title: "Binary to Decimal",
+    "id": "691b559495c5cb5a37b9b482",
+    "date": "2025-12-10T00:00:00.000Z",
+    "challengeNumber": 122,
+    "title": "Markdown Bold Parser"
   },
   {
-    id: "68b7cadffed0e75a517da671",
-    date: "2025-09-30T00:00:00.000Z",
-    challengeNumber: 51,
-    title: "Phone Number Formatter",
+    "id": "691b559495c5cb5a37b9b481",
+    "date": "2025-12-09T00:00:00.000Z",
+    "challengeNumber": 121,
+    "title": "Most Frequent"
   },
   {
-    id: "68b7cadffed0e75a517da66f",
-    date: "2025-09-29T00:00:00.000Z",
-    challengeNumber: 50,
-    title: "Longest Word",
+    "id": "691b559495c5cb5a37b9b480",
+    "date": "2025-12-08T00:00:00.000Z",
+    "challengeNumber": 120,
+    "title": "Pounds to Kilograms"
   },
   {
-    id: "68b7687dded630607aceccb3",
-    date: "2025-09-28T00:00:00.000Z",
-    challengeNumber: 49,
-    title: "CSV Header Parser",
+    "id": "69162d64f96574d9bb629f04",
+    "date": "2025-12-07T00:00:00.000Z",
+    "challengeNumber": 119,
+    "title": "String Compression"
   },
   {
-    id: "68b7687dded630607aceccb1",
-    date: "2025-09-27T00:00:00.000Z",
-    challengeNumber: 48,
-    title: "Spam Detector",
+    "id": "69162d64f96574d9bb629f03",
+    "date": "2025-12-06T00:00:00.000Z",
+    "challengeNumber": 118,
+    "title": "Date Formatter"
   },
   {
-    id: "68b7687dded630607aceccaf",
-    date: "2025-09-26T00:00:00.000Z",
-    challengeNumber: 47,
-    title: "Caught Speeding",
+    "id": "69162d64f96574d9bb629f02",
+    "date": "2025-12-05T00:00:00.000Z",
+    "challengeNumber": 117,
+    "title": "Symmetric Difference"
   },
   {
-    id: "68b7687dded630607aceccad",
-    date: "2025-09-25T00:00:00.000Z",
-    challengeNumber: 46,
-    title: "2nd Largest",
+    "id": "69162d64f96574d9bb629f01",
+    "date": "2025-12-04T00:00:00.000Z",
+    "challengeNumber": 116,
+    "title": "Permutation Count"
   },
   {
-    id: "68b7687dded630607aceccab",
-    date: "2025-09-24T00:00:00.000Z",
-    challengeNumber: 45,
-    title: "Perfect Square",
+    "id": "69162d64f96574d9bb629f00",
+    "date": "2025-12-03T00:00:00.000Z",
+    "challengeNumber": 115,
+    "title": "Markdown Ordered List Item Converter"
   },
   {
-    id: "68b1f72371a5ac895ac70a0a",
-    date: "2025-09-23T00:00:00.000Z",
-    challengeNumber: 44,
-    title: "String Mirror",
+    "id": "69162d64f96574d9bb629eff",
+    "date": "2025-12-02T00:00:00.000Z",
+    "challengeNumber": 114,
+    "title": "Camel to Snake"
   },
   {
-    id: "68b1f72371a5ac895ac70a08",
-    date: "2025-09-22T00:00:00.000Z",
-    challengeNumber: 43,
-    title: "Digits vs Letters",
+    "id": "69162d64f96574d9bb629efe",
+    "date": "2025-12-01T00:00:00.000Z",
+    "challengeNumber": 113,
+    "title": "Miles to Kilometers"
   },
   {
-    id: "68b1f72371a5ac895ac70a06",
-    date: "2025-09-21T00:00:00.000Z",
-    challengeNumber: 42,
-    title: "Video Storage",
+    "id": "69162d64f96574d9bb629efd",
+    "date": "2025-11-30T00:00:00.000Z",
+    "challengeNumber": 112,
+    "title": "AI Detector"
   },
   {
-    id: "68b1f72371a5ac895ac70a04",
-    date: "2025-09-20T00:00:00.000Z",
-    challengeNumber: 41,
-    title: "File Storage",
+    "id": "69162d64f96574d9bb629efc",
+    "date": "2025-11-29T00:00:00.000Z",
+    "challengeNumber": 111,
+    "title": "Ball Trajectory"
   },
   {
-    id: "68b1f72371a5ac895ac70a02",
-    date: "2025-09-19T00:00:00.000Z",
-    challengeNumber: 40,
-    title: "Photo Storage",
+    "id": "69162d64f96574d9bb629efb",
+    "date": "2025-11-28T00:00:00.000Z",
+    "challengeNumber": 110,
+    "title": "Word Guesser"
   },
   {
-    id: "68b06e589bf2273243814777",
-    date: "2025-09-18T00:00:00.000Z",
-    challengeNumber: 39,
-    title: "Fill The Tank",
+    "id": "68ffb91507a5b645769328cc",
+    "date": "2025-11-27T00:00:00.000Z",
+    "challengeNumber": 109,
+    "title": "What's My Age Again?"
   },
   {
-    id: "68b06e589bf2273243814775",
-    date: "2025-09-17T00:00:00.000Z",
-    challengeNumber: 38,
-    title: "Slug Generator",
+    "id": "68ffb91507a5b645769328cb",
+    "date": "2025-11-26T00:00:00.000Z",
+    "challengeNumber": 108,
+    "title": "BuzzFizz"
   },
   {
-    id: "68b06e589bf2273243814773",
-    date: "2025-09-16T00:00:00.000Z",
-    challengeNumber: 37,
-    title: "Sentence Capitalizer",
+    "id": "68ffb91507a5b645769328ca",
+    "date": "2025-11-25T00:00:00.000Z",
+    "challengeNumber": 107,
+    "title": "FizzBuzz"
   },
   {
-    id: "68b06e589bf2273243814771",
-    date: "2025-09-15T00:00:00.000Z",
-    challengeNumber: 36,
-    title: "Thermostat Adjuster",
+    "id": "68ffb91507a5b645769328c9",
+    "date": "2025-11-24T00:00:00.000Z",
+    "challengeNumber": 106,
+    "title": "Message Validator"
   },
   {
-    id: "68b06e589bf227324381476f",
-    date: "2025-09-14T00:00:00.000Z",
-    challengeNumber: 35,
-    title: "Word Frequency",
+    "id": "68ffb91507a5b645769328c8",
+    "date": "2025-11-23T00:00:00.000Z",
+    "challengeNumber": 105,
+    "title": "Character Count"
   },
   {
-    id: "68af0687ef34c76c28ffa54f",
-    date: "2025-09-13T00:00:00.000Z",
-    challengeNumber: 34,
-    title: "Missing Numbers",
+    "id": "68ffb91507a5b645769328c7",
+    "date": "2025-11-22T00:00:00.000Z",
+    "challengeNumber": 104,
+    "title": "Recipe Scaler"
   },
   {
-    id: "68af0687ef34c76c28ffa54d",
-    date: "2025-09-12T00:00:00.000Z",
-    challengeNumber: 33,
-    title: "Screen Time",
+    "id": "68ffb91507a5b645769328c6",
+    "date": "2025-11-21T00:00:00.000Z",
+    "challengeNumber": 103,
+    "title": "LCM"
   },
   {
-    id: "68af0687ef34c76c28ffa54b",
-    date: "2025-09-11T00:00:00.000Z",
-    challengeNumber: 32,
-    title: "Reverse Sentence",
+    "id": "68ffb91507a5b645769328c5",
+    "date": "2025-11-20T00:00:00.000Z",
+    "challengeNumber": 102,
+    "title": "Longest Word"
   },
   {
-    id: "68af0687ef34c76c28ffa549",
-    date: "2025-09-10T00:00:00.000Z",
-    challengeNumber: 31,
-    title: "Array Diff",
+    "id": "68ffb91507a5b645769328c4",
+    "date": "2025-11-19T00:00:00.000Z",
+    "challengeNumber": 101,
+    "title": "Markdown Heading Converter"
   },
   {
-    id: "68af0687ef34c76c28ffa547",
-    date: "2025-09-09T00:00:00.000Z",
-    challengeNumber: 30,
-    title: "Unique Characters",
+    "id": "68ffb91507a5b645769328c3",
+    "date": "2025-11-18T00:00:00.000Z",
+    "challengeNumber": 100,
+    "title": "100 Characters"
   },
   {
-    id: "68adce01c0e1144d0a90295e",
-    date: "2025-09-08T00:00:00.000Z",
-    challengeNumber: 29,
-    title: "Acronym Builder",
+    "id": "68f6587287ad1f4ad39b0c85",
+    "date": "2025-11-17T00:00:00.000Z",
+    "challengeNumber": 99,
+    "title": "Fingerprint Test"
   },
   {
-    id: "68adce01c0e1144d0a90295c",
-    date: "2025-09-07T00:00:00.000Z",
-    challengeNumber: 28,
-    title: "Roman Numeral Parser",
+    "id": "68f6587287ad1f4ad39b0c84",
+    "date": "2025-11-16T00:00:00.000Z",
+    "challengeNumber": 98,
+    "title": "Rectangle Count"
   },
   {
-    id: "68adce01c0e1144d0a90295a",
-    date: "2025-09-06T00:00:00.000Z",
-    challengeNumber: 27,
-    title: "Matrix Rotate",
+    "id": "68f6587287ad1f4ad39b0c83",
+    "date": "2025-11-15T00:00:00.000Z",
+    "challengeNumber": 97,
+    "title": "GCD"
   },
   {
-    id: "68adce01c0e1144d0a902958",
-    date: "2025-09-05T00:00:00.000Z",
-    challengeNumber: 26,
-    title: "IPv4 Validator",
+    "id": "68f6587287ad1f4ad39b0c82",
+    "date": "2025-11-14T00:00:00.000Z",
+    "challengeNumber": 96,
+    "title": "Is It the Weekend?"
   },
   {
-    id: "68adce01c0e1144d0a902956",
-    date: "2025-09-04T00:00:00.000Z",
-    challengeNumber: 25,
-    title: "Vowel Repeater",
+    "id": "68f6587287ad1f4ad39b0c81",
+    "date": "2025-11-13T00:00:00.000Z",
+    "challengeNumber": 95,
+    "title": "Array Shift"
   },
   {
-    id: "6821ec02237de8297eaee79a",
-    date: "2025-09-03T00:00:00.000Z",
-    challengeNumber: 24,
-    title: "Pangram",
+    "id": "68f6587287ad1f4ad39b0c80",
+    "date": "2025-11-12T00:00:00.000Z",
+    "challengeNumber": 94,
+    "title": "Email Signature Generator"
   },
   {
-    id: "6821ebfd237de8297eaee799",
-    date: "2025-09-02T00:00:00.000Z",
-    challengeNumber: 23,
-    title: "RGB to Hex",
+    "id": "68f6587287ad1f4ad39b0c7f",
+    "date": "2025-11-11T00:00:00.000Z",
+    "challengeNumber": 93,
+    "title": "Vowels and Consonants"
   },
   {
-    id: "6821ebf8237de8297eaee798",
-    date: "2025-09-01T00:00:00.000Z",
-    challengeNumber: 22,
-    title: "Tribonacci Sequence",
+    "id": "68f6587287ad1f4ad39b0c7e",
+    "date": "2025-11-10T00:00:00.000Z",
+    "challengeNumber": 92,
+    "title": "Extension Extractor"
   },
   {
-    id: "6821ebf3237de8297eaee797",
-    date: "2025-08-31T00:00:00.000Z",
-    challengeNumber: 21,
-    title: "Hex Generator",
+    "id": "68f6587287ad1f4ad39b0c7d",
+    "date": "2025-11-09T00:00:00.000Z",
+    "challengeNumber": 91,
+    "title": "Word Search"
   },
   {
-    id: "6821ebee237de8297eaee796",
-    date: "2025-08-30T00:00:00.000Z",
-    challengeNumber: 20,
-    title: "Array Duplicates",
+    "id": "68f6587287ad1f4ad39b0c7c",
+    "date": "2025-11-08T00:00:00.000Z",
+    "challengeNumber": 90,
+    "title": "Character Limit"
   },
   {
-    id: "6821ebea237de8297eaee795",
-    date: "2025-08-29T00:00:00.000Z",
-    challengeNumber: 19,
-    title: "Candlelight",
+    "id": "68ee9e3066cfd4eb2328e8a8",
+    "date": "2025-11-07T00:00:00.000Z",
+    "challengeNumber": 89,
+    "title": "Counting Cards"
   },
   {
-    id: "6821ebe4237de8297eaee794",
-    date: "2025-08-28T00:00:00.000Z",
-    challengeNumber: 18,
-    title: "Second Best",
+    "id": "68ee9e3066cfd4eb2328e8a7",
+    "date": "2025-11-06T00:00:00.000Z",
+    "challengeNumber": 88,
+    "title": "Weekday Finder"
   },
   {
-    id: "6821ebdf237de8297eaee793",
-    date: "2025-08-27T00:00:00.000Z",
-    challengeNumber: 17,
-    title: "Unorder of Operations",
+    "id": "68ee9e3066cfd4eb2328e8a6",
+    "date": "2025-11-05T00:00:00.000Z",
+    "challengeNumber": 87,
+    "title": "Matrix Builder"
   },
   {
-    id: "6821ebda237de8297eaee792",
-    date: "2025-08-26T00:00:00.000Z",
-    challengeNumber: 16,
-    title: "Reverse Parenthesis",
+    "id": "68ee9e3066cfd4eb2328e8a5",
+    "date": "2025-11-04T00:00:00.000Z",
+    "challengeNumber": 86,
+    "title": "Image Search"
   },
   {
-    id: "6821ebd4237de8297eaee791",
-    date: "2025-08-25T00:00:00.000Z",
-    challengeNumber: 15,
-    title: "camelCase",
+    "id": "68ee9e3066cfd4eb2328e8a4",
+    "date": "2025-11-03T00:00:00.000Z",
+    "challengeNumber": 85,
+    "title": "Word Counter"
   },
   {
-    id: "6821ebce237de8297eaee790",
-    date: "2025-08-24T00:00:00.000Z",
-    challengeNumber: 14,
-    title: "Character Battle",
+    "id": "68e39ed6106dac2f0a98fd66",
+    "date": "2025-11-02T00:00:00.000Z",
+    "challengeNumber": 84,
+    "title": "Infected"
   },
   {
-    id: "6821ebc9237de8297eaee78f",
-    date: "2025-08-23T00:00:00.000Z",
-    challengeNumber: 13,
-    title: "Unnatural Prime",
+    "id": "68e39ed6106dac2f0a98fd65",
+    "date": "2025-11-01T00:00:00.000Z",
+    "challengeNumber": 83,
+    "title": "Signature Validation"
   },
   {
-    id: "68216ef80f957572e7c340c5",
-    date: "2025-08-22T00:00:00.000Z",
-    challengeNumber: 12,
-    title: "Message Decoder",
+    "id": "68e39ed6106dac2f0a98fd64",
+    "date": "2025-10-31T00:00:00.000Z",
+    "challengeNumber": 82,
+    "title": "SpOoKy~CaSe"
   },
   {
-    id: "68216eb60f957572e7c340c4",
-    date: "2025-08-21T00:00:00.000Z",
-    challengeNumber: 11,
-    title: "Mile Pace",
+    "id": "68e39ed6106dac2f0a98fd63",
+    "date": "2025-10-30T00:00:00.000Z",
+    "challengeNumber": 81,
+    "title": "Nth Prime"
   },
   {
-    id: "681cb1b0dab50c87ddb2e51b",
-    date: "2025-08-20T00:00:00.000Z",
-    challengeNumber: 10,
-    title: "3 Strikes",
+    "id": "68e39ed6106dac2f0a98fd62",
+    "date": "2025-10-29T00:00:00.000Z",
+    "challengeNumber": 80,
+    "title": "Email Sorter"
   },
   {
-    id: "681cb1b0dab50c87ddb2e51a",
-    date: "2025-08-19T00:00:00.000Z",
-    challengeNumber: 9,
-    title: "Sum of Squares",
+    "id": "68d30fc57588d97fd3027b30",
+    "date": "2025-10-28T00:00:00.000Z",
+    "challengeNumber": 79,
+    "title": "Navigator"
   },
   {
-    id: "681cb1b0dab50c87ddb2e519",
-    date: "2025-08-18T00:00:00.000Z",
-    challengeNumber: 8,
-    title: "Factorializer",
+    "id": "68d30845cc08266018fc46be",
+    "date": "2025-10-27T00:00:00.000Z",
+    "challengeNumber": 78,
+    "title": "Integer Sequence"
   },
   {
-    id: "681cb1b0dab50c87ddb2e518",
-    date: "2025-08-17T00:00:00.000Z",
-    challengeNumber: 7,
-    title: "Targeted Sum",
+    "id": "68d30845cc08266018fc46bd",
+    "date": "2025-10-26T00:00:00.000Z",
+    "challengeNumber": 77,
+    "title": "Duration Formatter"
   },
   {
-    id: "681cb1afdab50c87ddb2e517",
-    date: "2025-08-16T00:00:00.000Z",
-    challengeNumber: 6,
-    title: "Anagram Checker",
+    "id": "68d30845cc08266018fc46bc",
+    "date": "2025-10-25T00:00:00.000Z",
+    "challengeNumber": 76,
+    "title": "Complementary DNA"
   },
   {
-    id: "681cb1afdab50c87ddb2e516",
-    date: "2025-08-15T00:00:00.000Z",
-    challengeNumber: 5,
-    title: "Jbelmud Text",
+    "id": "68d2ba1468508398389487d0",
+    "date": "2025-10-24T00:00:00.000Z",
+    "challengeNumber": 75,
+    "title": "Hidden Treasure"
   },
   {
-    id: "681cb1afdab50c87ddb2e515",
-    date: "2025-08-14T00:00:00.000Z",
-    challengeNumber: 4,
-    title: "S  P  A  C  E  J  A  M",
+    "id": "68d2ba1468508398389487cf",
+    "date": "2025-10-23T00:00:00.000Z",
+    "challengeNumber": 74,
+    "title": "Favorite Songs"
   },
   {
-    id: "681cb1a2dab50c87ddb2e514",
-    date: "2025-08-13T00:00:00.000Z",
-    challengeNumber: 3,
-    title: "Fibonacci Sequence",
+    "id": "68d2ba1468508398389487ce",
+    "date": "2025-10-22T00:00:00.000Z",
+    "challengeNumber": 73,
+    "title": "Speak Wisely, You Must"
   },
   {
-    id: "681cb05adab50c87ddb2e513",
-    date: "2025-08-12T00:00:00.000Z",
-    challengeNumber: 2,
-    title: "Base Check",
+    "id": "68cae5b538ff798bbd4da00a",
+    "date": "2025-10-21T00:00:00.000Z",
+    "challengeNumber": 72,
+    "title": "Thermostat Adjuster 2"
   },
   {
-    id: "6814d8e1516e86b171929de4",
-    date: "2025-08-11T00:00:00.000Z",
-    challengeNumber: 1,
-    title: "Vowel Balance",
+    "id": "68cae5b538ff798bbd4da009",
+    "date": "2025-10-20T00:00:00.000Z",
+    "challengeNumber": 71,
+    "title": "Tip Calculator"
   },
+  {
+    "id": "68cae5b538ff798bbd4da008",
+    "date": "2025-10-19T00:00:00.000Z",
+    "challengeNumber": 70,
+    "title": "HTML Attribute Extractor"
+  },
+  {
+    "id": "68cae5b538ff798bbd4da007",
+    "date": "2025-10-18T00:00:00.000Z",
+    "challengeNumber": 69,
+    "title": "Missing Socks"
+  },
+  {
+    "id": "68cae5b538ff798bbd4da006",
+    "date": "2025-10-17T00:00:00.000Z",
+    "challengeNumber": 68,
+    "title": "Credit Card Masker"
+  },
+  {
+    "id": "68cae5b538ff798bbd4da005",
+    "date": "2025-10-16T00:00:00.000Z",
+    "challengeNumber": 67,
+    "title": "Email Validator"
+  },
+  {
+    "id": "68cae5b538ff798bbd4da004",
+    "date": "2025-10-15T00:00:00.000Z",
+    "challengeNumber": 66,
+    "title": "HTML Tag Stripper"
+  },
+  {
+    "id": "68cae5b538ff798bbd4da003",
+    "date": "2025-10-14T00:00:00.000Z",
+    "challengeNumber": 65,
+    "title": "String Count"
+  },
+  {
+    "id": "68cae5b538ff798bbd4da002",
+    "date": "2025-10-13T00:00:00.000Z",
+    "challengeNumber": 64,
+    "title": "24 to 12"
+  },
+  {
+    "id": "68cae5b538ff798bbd4da001",
+    "date": "2025-10-12T00:00:00.000Z",
+    "challengeNumber": 63,
+    "title": "Battle of Words"
+  },
+  {
+    "id": "68c497f3aaefc9fd9f1b0e26",
+    "date": "2025-10-11T00:00:00.000Z",
+    "challengeNumber": 62,
+    "title": "Hex to Decimal"
+  },
+  {
+    "id": "68c497f3aaefc9fd9f1b0e25",
+    "date": "2025-10-10T00:00:00.000Z",
+    "challengeNumber": 61,
+    "title": "Space Week Day 7: Launch Fuel"
+  },
+  {
+    "id": "68c497f3aaefc9fd9f1b0e24",
+    "date": "2025-10-09T00:00:00.000Z",
+    "challengeNumber": 60,
+    "title": "Space Week Day 6: Moon Phase"
+  },
+  {
+    "id": "68c1a929005bf54d342aa8d6",
+    "date": "2025-10-08T00:00:00.000Z",
+    "challengeNumber": 59,
+    "title": "Space Week Day 5: Goldilocks Zone"
+  },
+  {
+    "id": "68c1a929005bf54d342aa8d5",
+    "date": "2025-10-07T00:00:00.000Z",
+    "challengeNumber": 58,
+    "title": "Space Week Day 4: Landing Spot"
+  },
+  {
+    "id": "68c1a929005bf54d342aa8d4",
+    "date": "2025-10-06T00:00:00.000Z",
+    "challengeNumber": 57,
+    "title": "Space Week Day 3: Phone Home"
+  },
+  {
+    "id": "68c1a929005bf54d342aa8d3",
+    "date": "2025-10-05T00:00:00.000Z",
+    "challengeNumber": 56,
+    "title": "Space Week Day 2: Exoplanet Search"
+  },
+  {
+    "id": "68c1a929005bf54d342aa8d2",
+    "date": "2025-10-04T00:00:00.000Z",
+    "challengeNumber": 55,
+    "title": "Space Week Day 1: Stellar Classification"
+  },
+  {
+    "id": "68b7cadffed0e75a517da677",
+    "date": "2025-10-03T00:00:00.000Z",
+    "challengeNumber": 54,
+    "title": "P@ssw0rd Str3ngth!"
+  },
+  {
+    "id": "68b7cadffed0e75a517da675",
+    "date": "2025-10-02T00:00:00.000Z",
+    "challengeNumber": 53,
+    "title": "Decimal to Binary"
+  },
+  {
+    "id": "68b7cadffed0e75a517da673",
+    "date": "2025-10-01T00:00:00.000Z",
+    "challengeNumber": 52,
+    "title": "Binary to Decimal"
+  },
+  {
+    "id": "68b7cadffed0e75a517da671",
+    "date": "2025-09-30T00:00:00.000Z",
+    "challengeNumber": 51,
+    "title": "Phone Number Formatter"
+  },
+  {
+    "id": "68b7cadffed0e75a517da66f",
+    "date": "2025-09-29T00:00:00.000Z",
+    "challengeNumber": 50,
+    "title": "Longest Word"
+  },
+  {
+    "id": "68b7687dded630607aceccb3",
+    "date": "2025-09-28T00:00:00.000Z",
+    "challengeNumber": 49,
+    "title": "CSV Header Parser"
+  },
+  {
+    "id": "68b7687dded630607aceccb1",
+    "date": "2025-09-27T00:00:00.000Z",
+    "challengeNumber": 48,
+    "title": "Spam Detector"
+  },
+  {
+    "id": "68b7687dded630607aceccaf",
+    "date": "2025-09-26T00:00:00.000Z",
+    "challengeNumber": 47,
+    "title": "Caught Speeding"
+  },
+  {
+    "id": "68b7687dded630607aceccad",
+    "date": "2025-09-25T00:00:00.000Z",
+    "challengeNumber": 46,
+    "title": "2nd Largest"
+  },
+  {
+    "id": "68b7687dded630607aceccab",
+    "date": "2025-09-24T00:00:00.000Z",
+    "challengeNumber": 45,
+    "title": "Perfect Square"
+  },
+  {
+    "id": "68b1f72371a5ac895ac70a0a",
+    "date": "2025-09-23T00:00:00.000Z",
+    "challengeNumber": 44,
+    "title": "String Mirror"
+  },
+  {
+    "id": "68b1f72371a5ac895ac70a08",
+    "date": "2025-09-22T00:00:00.000Z",
+    "challengeNumber": 43,
+    "title": "Digits vs Letters"
+  },
+  {
+    "id": "68b1f72371a5ac895ac70a06",
+    "date": "2025-09-21T00:00:00.000Z",
+    "challengeNumber": 42,
+    "title": "Video Storage"
+  },
+  {
+    "id": "68b1f72371a5ac895ac70a04",
+    "date": "2025-09-20T00:00:00.000Z",
+    "challengeNumber": 41,
+    "title": "File Storage"
+  },
+  {
+    "id": "68b1f72371a5ac895ac70a02",
+    "date": "2025-09-19T00:00:00.000Z",
+    "challengeNumber": 40,
+    "title": "Photo Storage"
+  },
+  {
+    "id": "68b06e589bf2273243814777",
+    "date": "2025-09-18T00:00:00.000Z",
+    "challengeNumber": 39,
+    "title": "Fill The Tank"
+  },
+  {
+    "id": "68b06e589bf2273243814775",
+    "date": "2025-09-17T00:00:00.000Z",
+    "challengeNumber": 38,
+    "title": "Slug Generator"
+  },
+  {
+    "id": "68b06e589bf2273243814773",
+    "date": "2025-09-16T00:00:00.000Z",
+    "challengeNumber": 37,
+    "title": "Sentence Capitalizer"
+  },
+  {
+    "id": "68b06e589bf2273243814771",
+    "date": "2025-09-15T00:00:00.000Z",
+    "challengeNumber": 36,
+    "title": "Thermostat Adjuster"
+  },
+  {
+    "id": "68b06e589bf227324381476f",
+    "date": "2025-09-14T00:00:00.000Z",
+    "challengeNumber": 35,
+    "title": "Word Frequency"
+  },
+  {
+    "id": "68af0687ef34c76c28ffa54f",
+    "date": "2025-09-13T00:00:00.000Z",
+    "challengeNumber": 34,
+    "title": "Missing Numbers"
+  },
+  {
+    "id": "68af0687ef34c76c28ffa54d",
+    "date": "2025-09-12T00:00:00.000Z",
+    "challengeNumber": 33,
+    "title": "Screen Time"
+  },
+  {
+    "id": "68af0687ef34c76c28ffa54b",
+    "date": "2025-09-11T00:00:00.000Z",
+    "challengeNumber": 32,
+    "title": "Reverse Sentence"
+  },
+  {
+    "id": "68af0687ef34c76c28ffa549",
+    "date": "2025-09-10T00:00:00.000Z",
+    "challengeNumber": 31,
+    "title": "Array Diff"
+  },
+  {
+    "id": "68af0687ef34c76c28ffa547",
+    "date": "2025-09-09T00:00:00.000Z",
+    "challengeNumber": 30,
+    "title": "Unique Characters"
+  },
+  {
+    "id": "68adce01c0e1144d0a90295e",
+    "date": "2025-09-08T00:00:00.000Z",
+    "challengeNumber": 29,
+    "title": "Acronym Builder"
+  },
+  {
+    "id": "68adce01c0e1144d0a90295c",
+    "date": "2025-09-07T00:00:00.000Z",
+    "challengeNumber": 28,
+    "title": "Roman Numeral Parser"
+  },
+  {
+    "id": "68adce01c0e1144d0a90295a",
+    "date": "2025-09-06T00:00:00.000Z",
+    "challengeNumber": 27,
+    "title": "Matrix Rotate"
+  },
+  {
+    "id": "68adce01c0e1144d0a902958",
+    "date": "2025-09-05T00:00:00.000Z",
+    "challengeNumber": 26,
+    "title": "IPv4 Validator"
+  },
+  {
+    "id": "68adce01c0e1144d0a902956",
+    "date": "2025-09-04T00:00:00.000Z",
+    "challengeNumber": 25,
+    "title": "Vowel Repeater"
+  },
+  {
+    "id": "6821ec02237de8297eaee79a",
+    "date": "2025-09-03T00:00:00.000Z",
+    "challengeNumber": 24,
+    "title": "Pangram"
+  },
+  {
+    "id": "6821ebfd237de8297eaee799",
+    "date": "2025-09-02T00:00:00.000Z",
+    "challengeNumber": 23,
+    "title": "RGB to Hex"
+  },
+  {
+    "id": "6821ebf8237de8297eaee798",
+    "date": "2025-09-01T00:00:00.000Z",
+    "challengeNumber": 22,
+    "title": "Tribonacci Sequence"
+  },
+  {
+    "id": "6821ebf3237de8297eaee797",
+    "date": "2025-08-31T00:00:00.000Z",
+    "challengeNumber": 21,
+    "title": "Hex Generator"
+  },
+  {
+    "id": "6821ebee237de8297eaee796",
+    "date": "2025-08-30T00:00:00.000Z",
+    "challengeNumber": 20,
+    "title": "Array Duplicates"
+  },
+  {
+    "id": "6821ebea237de8297eaee795",
+    "date": "2025-08-29T00:00:00.000Z",
+    "challengeNumber": 19,
+    "title": "Candlelight"
+  },
+  {
+    "id": "6821ebe4237de8297eaee794",
+    "date": "2025-08-28T00:00:00.000Z",
+    "challengeNumber": 18,
+    "title": "Second Best"
+  },
+  {
+    "id": "6821ebdf237de8297eaee793",
+    "date": "2025-08-27T00:00:00.000Z",
+    "challengeNumber": 17,
+    "title": "Unorder of Operations"
+  },
+  {
+    "id": "6821ebda237de8297eaee792",
+    "date": "2025-08-26T00:00:00.000Z",
+    "challengeNumber": 16,
+    "title": "Reverse Parenthesis"
+  },
+  {
+    "id": "6821ebd4237de8297eaee791",
+    "date": "2025-08-25T00:00:00.000Z",
+    "challengeNumber": 15,
+    "title": "camelCase"
+  },
+  {
+    "id": "6821ebce237de8297eaee790",
+    "date": "2025-08-24T00:00:00.000Z",
+    "challengeNumber": 14,
+    "title": "Character Battle"
+  },
+  {
+    "id": "6821ebc9237de8297eaee78f",
+    "date": "2025-08-23T00:00:00.000Z",
+    "challengeNumber": 13,
+    "title": "Unnatural Prime"
+  },
+  {
+    "id": "68216ef80f957572e7c340c5",
+    "date": "2025-08-22T00:00:00.000Z",
+    "challengeNumber": 12,
+    "title": "Message Decoder"
+  },
+  {
+    "id": "68216eb60f957572e7c340c4",
+    "date": "2025-08-21T00:00:00.000Z",
+    "challengeNumber": 11,
+    "title": "Mile Pace"
+  },
+  {
+    "id": "681cb1b0dab50c87ddb2e51b",
+    "date": "2025-08-20T00:00:00.000Z",
+    "challengeNumber": 10,
+    "title": "3 Strikes"
+  },
+  {
+    "id": "681cb1b0dab50c87ddb2e51a",
+    "date": "2025-08-19T00:00:00.000Z",
+    "challengeNumber": 9,
+    "title": "Sum of Squares"
+  },
+  {
+    "id": "681cb1b0dab50c87ddb2e519",
+    "date": "2025-08-18T00:00:00.000Z",
+    "challengeNumber": 8,
+    "title": "Factorializer"
+  },
+  {
+    "id": "681cb1b0dab50c87ddb2e518",
+    "date": "2025-08-17T00:00:00.000Z",
+    "challengeNumber": 7,
+    "title": "Targeted Sum"
+  },
+  {
+    "id": "681cb1afdab50c87ddb2e517",
+    "date": "2025-08-16T00:00:00.000Z",
+    "challengeNumber": 6,
+    "title": "Anagram Checker"
+  },
+  {
+    "id": "681cb1afdab50c87ddb2e516",
+    "date": "2025-08-15T00:00:00.000Z",
+    "challengeNumber": 5,
+    "title": "Jbelmud Text"
+  },
+  {
+    "id": "681cb1afdab50c87ddb2e515",
+    "date": "2025-08-14T00:00:00.000Z",
+    "challengeNumber": 4,
+    "title": "S  P  A  C  E  J  A  M"
+  },
+  {
+    "id": "681cb1a2dab50c87ddb2e514",
+    "date": "2025-08-13T00:00:00.000Z",
+    "challengeNumber": 3,
+    "title": "Fibonacci Sequence"
+  },
+  {
+    "id": "681cb05adab50c87ddb2e513",
+    "date": "2025-08-12T00:00:00.000Z",
+    "challengeNumber": 2,
+    "title": "Base Check"
+  },
+  {
+    "id": "6814d8e1516e86b171929de4",
+    "date": "2025-08-11T00:00:00.000Z",
+    "challengeNumber": 1,
+    "title": "Vowel Balance"
+  }
 ];
 
 const dailyChallenges = new Map(
